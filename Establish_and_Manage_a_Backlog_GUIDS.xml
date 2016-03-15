@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><Lesson xy:guid="9d2dfc8d-6e70-4a17-b380-3eeb95e313f5" xy:type="IA/Definitions/LessonDef.xml" xmlns:xy="http://xyleme.com/xylink"><Title>Establish and Manage a Backlog</Title><SubTitle>In this challenge, you will write and prioritize user stories, and update a backlog in response to change.</SubTitle><IntroBlock xy:guid="9b498ae2-1587-4344-bdde-7d6811651426"><ParaBlock xy:guid="67099534-c543-4b2b-8b25-15efe9a84c01"><RichText>A backlog is an essential part of making sure your agile team is doing the right work at the right time. Think of it as a single source for what needs to be accomplished in order to satisfy the business. It contains all identified user stories and they are estimated, organized, and prioritized. If you’re an agile BA, you’ll need to know what goes into creating a backlog and what you need to do to make sure that it is serving the team and your business well.</RichText></ParaBlock><ParaBlock xy:guid="d1998c05-64b2-4c77-95f0-c1b98966b0fa"><Movie ShowControls="true" StartOnLoad="false" height-pixel="" width-pixel="" wrap="none" xy:guid="d37b5ab3-bcca-445c-93bd-977e9c720187"><Title>Introduction: Establish and Manage a Backlog</Title><LaunchMovie>https://www.youtube.com/watch?v=YuCbQCnoIzI</LaunchMovie></Movie></ParaBlock></IntroBlock><ContentGroup name="Model" xy:guid="3e6fb9f4-94f6-4243-919a-f235e31a4bf9"><Topic xy:guid="a75df497-3bbe-4090-89a1-5718fec5e2a8"><Title>What is a User Story?</Title><ParaBlock xy:guid="30763a0f-b6c9-4d8d-9cf5-f3e48e379bd1"><RichText>User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template:
+
+As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;. 
+
+User stories are often written on index cards or sticky notes, stored in a shoe box, and arranged on walls or tables to facilitate planning and discussion. As such, they strongly shift the focus from writing about features to discussing them. In fact, these discussions are more important than whatever text is written.</RichText></ParaBlock></Topic><Topic xy:guid="e554ff6e-143b-4817-884f-4ee8362df8c7"><Title>Demonstration: Writing User Stories</Title><ParaBlock xy:guid="531b4a7d-73a3-4ca0-88b9-07e60b904cf2"><Movie ShowControls="true" StartOnLoad="false" height-pixel="" width-pixel="" wrap="" xy:guid="8819e905-9a92-4e3f-8707-0753901ae739"><Title>Writing User Stories</Title><Introduction>In this video, your instructor will demonstrate how to write user stories. </Introduction><LaunchMovie>https://www.youtube.com/watch?v=yux26dR2s_c</LaunchMovie></Movie></ParaBlock></Topic><Topic xy:guid="32eb5a27-015d-4722-95ed-45bfd8dfd315"><Title>What is a Backlog?</Title><ParaBlock xy:guid="277fe0a4-c7fc-4c1f-84e4-967d613f356b"><RichText>A backlog is a list of features or technical tasks which the team maintains and which, at a given moment, are known to be necessary and sufficient to complete a project or a release:
+if an item on the backlog does not contribute to the project's goal, it should be removed;
+on the other hand, if at any time a task or feature becomes known that is considered necessary to the project, it should be added to the backlog.
+
+These "necessary and sufficient" properties are assessed relative to the team's state of knowledge at a particular moment; the backlog is expected to change throughout the project's duration as the team gains knowledge.
+
+The backlog is the primary point of entry for knowledge about requirements, and the single authoritative source defining the work to be done.
+</RichText></ParaBlock></Topic><Topic xy:guid="c6ea397f-ce3f-46b7-a989-5f6f7c5e17a2"><Title>Practice: User Story Terminology</Title><QuestionBlock xy:guid="2be7eb23-9466-450e-ad69-6e61c6210e59"><MatchingActivity PresoType="DragArrow" Weight="1.0" xy:guid="de0b82a0-c9fd-4ffb-9290-838bd43630f4"><QuestionStem><RichText>Match each term with it's definition</RichText></QuestionStem><Option><Distractor><RichText>User story</RichText></Distractor><Match><RichText>A concise statement of functionality</RichText></Match></Option><Option><Distractor><RichText>Epic</RichText></Distractor><Match><RichText>A statement of functionality that would take significant effort to implement</RichText></Match></Option><Option><Distractor><RichText>Theme</RichText></Distractor><Match><RichText>A group of statements of functionality that share a common attribute</RichText></Match></Option></MatchingActivity></QuestionBlock></Topic></ContentGroup><ContentGroup name="Challenge" xy:guid="75c6b71d-1767-4aae-9ad3-4f06b04ed493"><Topic xy:guid="dc41fb78-7257-4704-b0ae-af4a5df1ff82"><Title>Challenge Introduction</Title><ParaBlock xy:guid="0134447c-382b-46e1-bc37-54691a92e6d0"><Movie ShowControls="true" StartOnLoad="false" height-pixel="" width-pixel="" wrap="" xy:guid="d248419c-e117-433a-9350-6babd9aee491"><LaunchMovie>https://www.youtube.com/watch?v=pkDWslo13UM</LaunchMovie></Movie></ParaBlock><Topic xy:guid="f5820ac9-830c-48a5-af86-ea6961f1d162"><Title>Challenge: Establish and Manage a Backlog</Title><ParaBlock xy:guid="38ad00fb-7641-4df3-9ae0-edf5a9a3b7f6"><RichText>Based on the case study and the observation notes from the restaurant, write a set of 6 user stories representing the needs of at least 3 different actors...
+</RichText></ParaBlock></Topic></Topic></ContentGroup></Lesson>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
