@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><Lesson><Title>Clarify Business Objectives</Title><SubTitle>In this challenge, you will choose a vision statement for an app dev project, create success indicators, and create a list of product features.</SubTitle><IntroBlock><ParaBlock><RichText>It's important to get your Agile team’s work off on the right footing. We’ll talk about the importance of a good problem statement, which helps you confirm that you’re focusing on the right set of issues. Equally important are the vision statement, success criteria, and scope, which together set the target that you and your team are aiming for as you build out your solution. </RichText><Figure><MediaObject><Renditions><Web ProductionNote="Challenge Selector Photo" thumbWidth="50" uri="HiPO/cycling-trails-2096.jpg"/></Renditions></MediaObject></Figure><Movie ShowControls="true" StartOnLoad="false" height-pixel="" width-pixel="" wrap="none"><Title>Introduction</Title><LaunchMovie>https://www.youtube.com/watch?v=87FDctNdUOw</LaunchMovie></Movie></ParaBlock></IntroBlock><ContentGroup name="Concepts"><Topic><Title>Building a Problem Statement</Title><ParaBlock><RichText>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur</RichText><Figure><MediaObject><Renditions><Web thumbWidth="50" uri="Cisco/Topologies/problemstatement.png"/></Renditions></MediaObject></Figure></ParaBlock></Topic><Topic><Title>Demonstration: Creating a Vision Statement</Title><ParaBlock><Movie ShowControls="true" StartOnLoad="false" height-pixel="" width-pixel="" wrap=""><Title/><Introduction>In this video, your instructor will demonstrate how to write user stories. </Introduction><LaunchMovie>https://www.youtube.com/watch?v=PnbGirPTgF0</LaunchMovie></Movie></ParaBlock></Topic><Topic><Title>What is a Feature?</Title><ParaBlock><RichText>Adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
+
+Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae</RichText></ParaBlock></Topic><Topic><Title>Practice:Dolores Eos </Title><QuestionBlock><MatchingActivity PresoType="DragArrow" Weight="1.0"><QuestionStem><RichText>Match each term with it's definition</RichText></QuestionStem><Option><Distractor><RichText>User story</RichText></Distractor><Match><RichText>A concise statement of functionality</RichText></Match></Option><Option><Distractor><RichText>Epic</RichText></Distractor><Match><RichText>A statement of functionality that would take significant effort to implement</RichText></Match></Option><Option><Distractor><RichText>Theme</RichText></Distractor><Match><RichText>A group of statements of functionality that share a common attribute</RichText></Match></Option></MatchingActivity></QuestionBlock></Topic></ContentGroup><ContentGroup name="Challenge"><Topic><Title>Challenge Introduction</Title><ParaBlock><Movie ShowControls="true" StartOnLoad="false" height-pixel="" width-pixel="" wrap=""><LaunchMovie>https://www.youtube.com/watch?v=pkDWslo13UM</LaunchMovie></Movie></ParaBlock><Topic><Title>Challenge: Clarify Business Objectives</Title><ParaBlock><List ListMarker="Numeric"><ItemBlock><Item><ItemPara>Read the FoodOn Case Study.</ItemPara></Item><Item><ItemPara>Select the best vision statement for the FoodOn app project.</ItemPara></Item><Item><ItemPara>Create a list of success indicators.</ItemPara></Item><Item><ItemPara>Create a list of features.</ItemPara></Item><Item><ItemPara>Perform a Kano analysis for each feature. </ItemPara></Item></ItemBlock></List></ParaBlock></Topic></Topic></ContentGroup></Lesson>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
