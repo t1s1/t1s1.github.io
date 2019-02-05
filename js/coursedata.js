@@ -8,6 +8,7 @@ $(document).ready(function() {
             {"data": "Product Line"},
             {"data": "Topic"}
         ],
+        dom: 'Bfrtip',
         buttons: [
             'copyHtml5',
             'excelHtml5',
