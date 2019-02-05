@@ -7,7 +7,6 @@ $(document).ready(function() {
             {"data": "Product Line"},
             {"data": "Topic"}
         ],
-        dom: "Bfrtip",
         buttons: [
             'copy', 'excel', 'pdf'
         ]
