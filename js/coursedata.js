@@ -8,7 +8,7 @@ $(document).ready(function() {
             {"data": "Topic"}
         ],
         buttons: [
-            'copy', 'excel', 'pdf'
+            'csv'
         ]
     } );
 } );
