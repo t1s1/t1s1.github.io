@@ -7,12 +7,6 @@ $(document).ready(function() {
             {"data": "Course Name"},
             {"data": "Product Line"},
             {"data": "Topic"}
-        ],
-        dom: 'Bfrtip',
-        buttons: [
-            'copyHtml5',
-            'excelHtml5',
-            'csvHtml5'
         ]
     } );
 } );
