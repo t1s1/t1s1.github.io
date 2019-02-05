@@ -1,10 +1,7 @@
 $(document).ready(function() {
     $('#datatable').DataTable( {
-         ajax: {
-            url: '../data/courselist.txt',
-            dataSrc: ''
-        },
-        columns: [
+        "ajax": "../data/courselist.txt",
+        "columns": [
             {"data": "Source"},
             {"data": "GK Code"},
             {"data": "Course Name"},
