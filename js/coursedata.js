@@ -7,7 +7,7 @@ $(document).ready(function() {
             {"data": "Product Line"},
             {"data": "Topic"}
         ],
-        buttons: [
+        "buttons": [
             'copy', 'excel', 'pdf'
         ]
     } );
