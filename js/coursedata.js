@@ -1,5 +1,5 @@
 $(document).ready(function() {
     $('#datatable').DataTable( {
-        "ajax": '../data/courselist.txt' //path to JSON data
+        "ajax": '../data/list_example.txt'
     } );
 } );
