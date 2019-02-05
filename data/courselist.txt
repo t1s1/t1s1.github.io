@@ -842,13 +842,6 @@
   },
   {
     "Source": "Live",
-    "GK Code": "100191",
-    "Course Name": "",
-    "Product Line": "Microsoft",
-    "Topic": "Azure"
-  },
-  {
-    "Source": "Live",
     "GK Code": "100193",
     "Course Name": "Azure Solution Architect Bootcamp (AZ-300 and AZ-301)",
     "Product Line": "Microsoft",
@@ -1863,133 +1856,133 @@
     "Topic": "Cloud"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "0769",
     "Course Name": "Advanced Automated Administration with Windows PowerShell (M10962)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "1415",
     "Course Name": "Deploying Windows Desktops and Enterprise Applications (M20695)",
     "Product Line": "Microsoft",
     "Topic": "Windows Client"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "1802",
     "Course Name": "Introduction to Microsoft Azure for IT Professionals (M10979)",
     "Product Line": "Microsoft",
     "Topic": "Azure"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "1824",
     "Course Name": "Cloud & Datacenter Monitoring with System Center Operations Manager (M10964)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "3317",
     "Course Name": "Implementing and Managing Windows 10 (M20697-1)",
     "Product Line": "Microsoft",
     "Topic": "Windows Client"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "3318",
     "Course Name": "Deploying and Managing Windows 10 Using Enterprise Services (M20697-2)",
     "Product Line": "Microsoft",
     "Topic": "Windows Client"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "3770",
     "Course Name": "Supporting and Troubleshooting Windows 10 (M10982)",
     "Product Line": "Microsoft",
     "Topic": "Windows Client"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "3771",
     "Course Name": "Core Solutions of Microsoft Skype for Business 2015 (M20334)",
     "Product Line": "Microsoft",
     "Topic": "Unified Communications"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "3982",
     "Course Name": "Administering Microsoft Exchange Server 2016 (M20345-1)",
     "Product Line": "Microsoft",
     "Topic": "Exchange"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "3983",
     "Course Name": "Designing and Deploying Microsoft Exchange Server 2016 (M20345-2)",
     "Product Line": "Microsoft",
     "Topic": "Exchange"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "3984",
     "Course Name": "Enabling & Managing Office 365 (M20347)",
     "Product Line": "Microsoft",
     "Topic": "MS MOC"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4393",
     "Course Name": "Introduction to SQL Databases (M10985)",
     "Product Line": "Microsoft",
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4394",
     "Course Name": "Updating Your Skills to SQL Server 2016 (M10986)",
     "Product Line": "Microsoft",
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4395",
     "Course Name": "Querying Data with Transact-SQL (M20761)",
     "Product Line": "Microsoft",
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4396",
     "Course Name": "Administering a SQL Database Infrastructure (M20764)",
     "Product Line": "Microsoft",
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4397",
     "Course Name": "Provisioning SQL Databases (M20765)",
     "Product Line": "Microsoft",
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4398",
     "Course Name": "Implementing a SQL Data Warehouse (M20767)",
     "Product Line": "Microsoft",
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4399",
     "Course Name": "Developing SQL Data Models (M20768)",
     "Product Line": "Microsoft",
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4400",
     "Course Name": "Developing SQL Databases (M20762)",
     "Product Line": "Microsoft",
@@ -2003,77 +1996,77 @@
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4430",
     "Course Name": "Planning and Administering SharePoint 2016 (M20339-1)",
     "Product Line": "Microsoft",
     "Topic": "Sharepoint"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4460",
     "Course Name": "Advanced Technologies of SharePoint 2016 (M20339-2)",
     "Product Line": "Microsoft",
     "Topic": "Sharepoint"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4692",
     "Course Name": "Analyzing Data with SQL Server Reporting Services (M10990)",
     "Product Line": "Microsoft",
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4698",
     "Course Name": "Installation, Storage, and Compute with Windows Server 2016 (M20740)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4699",
     "Course Name": "Networking with Windows Server 2016 (M20741)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4700",
     "Course Name": "Identity with Windows Server 2016 (M20742)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4756",
     "Course Name": "Upgrading Your Skills to Windows Server 2016 MCSA (M20743)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4759",
     "Course Name": "Securing Windows Server 2016 (M20744)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4772",
     "Course Name": "Implementing a Software Defined Datacenter (M20745)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4814",
     "Course Name": "Integrating On-Premises Core Infrastructure with Microsoft Azure (M10992)",
     "Product Line": "Microsoft",
     "Topic": "Azure"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "4820",
     "Course Name": "Integrating On-Premises Identity Infrastructure with Microsoft Azure (M10993)",
     "Product Line": "Microsoft",
@@ -2087,63 +2080,63 @@
     "Topic": "Windows Client"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6219",
     "Course Name": "Administering System Center Configuration Manager (M20703-1)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6221",
     "Course Name": "Integrating MDM and Cloud Services with System Center Configuration Manager (M20703-2)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6238",
     "Course Name": "Analyzing Data with PowerBI (M20778)",
     "Product Line": "Microsoft",
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6239",
     "Course Name": "Office 365 Administration and Troubleshooting  (M10997)",
     "Product Line": "Microsoft",
     "Topic": "MS MOC"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6299",
     "Course Name": "Installing and Configuring Windows Server 2012 (M20410)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6309",
     "Course Name": "Deploying System Center 2012 Configuration Manager (M10748)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6395",
     "Course Name": "Administering Windows Server 2012 (M20411)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6396",
     "Course Name": "Programming in HTML5 with JavaScript and CSS3 (M20480)",
     "Product Line": "Microsoft",
     "Topic": ".NET"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6412",
     "Course Name": "Configuring Advanced Windows Server 2012 Services (M20412)",
     "Product Line": "Microsoft",
@@ -2164,14 +2157,14 @@
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6420",
     "Course Name": "Programming in C# (M20483)",
     "Product Line": "Microsoft",
     "Topic": ".NET"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6426",
     "Course Name": "Core Solutions of Microsoft SharePoint Server 2013",
     "Product Line": "Microsoft",
@@ -2206,49 +2199,49 @@
     "Topic": "Sharepoint"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6457",
     "Course Name": "Automating Administration with Windows PowerShell (M10961)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6501",
     "Course Name": "Active Directory Services with Windows Server (M10969)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6504",
     "Course Name": "Administering the Web Server (IIS) Role of Windows Server (M10972)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6508",
     "Course Name": "IT Service Management with System Center Service Manager (M10965)",
     "Product Line": "Microsoft",
     "Topic": "Server"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6552",
     "Course Name": "Querying Microsoft SQL Server 2014 (M20461)",
     "Product Line": "Microsoft",
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6553",
     "Course Name": "Administering Microsoft SQL Server 2014 Databases (M20462)",
     "Product Line": "Microsoft",
     "Topic": "SQL"
   },
   {
-    "Source": "Enhanced On-Demand-ILT",
+    "Source": "Enhanced On-Demand, Live",
     "GK Code": "6554",
     "Course Name": "Implementing a Data Warehouse with Microsoft SQL Server 2014 (M20463)",
     "Product Line": "Microsoft",
@@ -2733,21 +2726,21 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Big Data � The Corporate Leadership Perspective",
+    "Course Name": "Big Data  The Corporate Leadership Perspective",
     "Product Line": "Enterprise Database Systems",
     "Topic": "Big Data"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Big Data � The Engineering Perspective",
+    "Course Name": "Big Data  The Engineering Perspective",
     "Product Line": "Enterprise Database Systems",
     "Topic": "Big Data"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Big Data � The Legal Perspective",
+    "Course Name": "Big Data  The Legal Perspective",
     "Product Line": "Enterprise Database Systems",
     "Topic": "Big Data"
   },
@@ -2761,14 +2754,14 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Big Data � The Sales Perspective",
+    "Course Name": "Big Data  The Sales Perspective",
     "Product Line": "Enterprise Database Systems",
     "Topic": "Big Data"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Big Data � The Strategic Planning Perspective",
+    "Course Name": "Big Data  The Strategic Planning Perspective",
     "Product Line": "Enterprise Database Systems",
     "Topic": "Big Data"
   },
@@ -2831,7 +2824,7 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Hadoop�Installation and Maintenance",
+    "Course Name": "HadoopInstallation and Maintenance",
     "Product Line": "Enterprise Database Systems",
     "Topic": "Big Data"
   },
@@ -2901,7 +2894,7 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Amazon Web Services Solution Architect � Professional",
+    "Course Name": "Amazon Web Services Solution Architect  Professional",
     "Product Line": "Internet and Network Technologies",
     "Topic": "Cloud Computing"
   },
@@ -2929,7 +2922,7 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "AWS Certified SysOps Administrator � Associate",
+    "Course Name": "AWS Certified SysOps Administrator  Associate",
     "Product Line": "Internet and Network Technologies",
     "Topic": "Cloud Computing"
   },
@@ -3104,16 +3097,16 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Monitor Project Communications (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Monitor Project Communications (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Communications (PMBOK� Guide Sixth Edition)"
+    "Topic": "Communications (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Plan and Manage Communications (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Plan and Manage Communications (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Communications (PMBOK� Guide Sixth Edition)"
+    "Topic": "Communications (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
@@ -3461,7 +3454,7 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Docker � Beyond the Basics",
+    "Course Name": "Docker  Beyond the Basics",
     "Product Line": "Operating Systems and Server Technologies",
     "Topic": "DevOps"
   },
@@ -3783,14 +3776,14 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "ITIL� 2011 Edition Intermediate Level: Operational Support & Analysis (OSA)",
+    "Course Name": "ITIL 2011 Edition Intermediate Level: Operational Support & Analysis (OSA)",
     "Product Line": "Operating Systems and Server Technologies",
     "Topic": "IT Services"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "ITIL� 2011 Foundation",
+    "Course Name": "ITIL 2011 Foundation",
     "Product Line": "Operating Systems and Server Technologies",
     "Topic": "IT Services"
   },
@@ -4245,7 +4238,7 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Microsoft SQL Server�2014: Implementing Data Models and Reports",
+    "Course Name": "Microsoft SQL Server2014: Implementing Data Models and Reports",
     "Product Line": "Enterprise Database Systems",
     "Topic": "Microsoft SQL Server 2016"
   },
@@ -4793,35 +4786,35 @@
     "GK Code": "NA",
     "Course Name": "Agile Key Exam Concepts",
     "Product Line": "Project Management Curriculum",
-    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)�"
+    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
     "Course Name": "Agile Principles and Methodologies",
     "Product Line": "Project Management Curriculum",
-    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)�"
+    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
     "Course Name": "Agile Project Planning",
     "Product Line": "Project Management Curriculum",
-    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)�"
+    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
     "Course Name": "Agile Project Scheduling and Monitoring",
     "Product Line": "Project Management Curriculum",
-    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)�"
+    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
     "Course Name": "Agile Stakeholder Engagement and Team Development",
     "Product Line": "Project Management Curriculum",
-    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)�"
+    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)"
   },
   {
     "Source": "Standard On-Demand",
@@ -4833,44 +4826,44 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Adopting Prince2� for your Project Environment (2017 Update)",
+    "Course Name": "Adopting Prince2 for your Project Environment (2017 Update)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Prince2� - Foundation (2017 Update)"
+    "Topic": "Prince2 - Foundation (2017 Update)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Prince2� Control, Manage, and Close Projects (2017 Update)",
+    "Course Name": "Prince2 Control, Manage, and Close Projects (2017 Update)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Prince2� - Foundation (2017 Update)"
+    "Topic": "Prince2 - Foundation (2017 Update)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Prince2� Project Management Overview (2017 Update)",
+    "Course Name": "Prince2 Project Management Overview (2017 Update)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Prince2� - Foundation (2017 Update)"
+    "Topic": "Prince2 - Foundation (2017 Update)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Prince2� Project Planning and Risk Management (2017 Update)",
+    "Course Name": "Prince2 Project Planning and Risk Management (2017 Update)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Prince2� - Foundation (2017 Update)"
+    "Topic": "Prince2 - Foundation (2017 Update)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Prince2� Project Quality and Control (2017 Update)",
+    "Course Name": "Prince2 Project Quality and Control (2017 Update)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Prince2� - Foundation (2017 Update)"
+    "Topic": "Prince2 - Foundation (2017 Update)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Prince2� Start, Direct, and Initiate Projects (2017 Update)",
+    "Course Name": "Prince2 Start, Direct, and Initiate Projects (2017 Update)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Prince2� - Foundation (2017 Update)"
+    "Topic": "Prince2 - Foundation (2017 Update)"
   },
   {
     "Source": "Standard On-Demand",
@@ -4889,77 +4882,77 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Creating a Project Budget (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Creating a Project Budget (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Cost (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Cost (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Keeping Your Project on Budget (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Keeping Your Project on Budget (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Cost (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Cost (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
     "Course Name": "Capturing, Analyzing, and Using Project Lessons Learned",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Integration (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Integration (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Managing Project Work (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Managing Project Work (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Integration (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Integration (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Project Changes and Closing (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Project Changes and Closing (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Integration (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Integration (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Project Initiation and Planning (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Project Initiation and Planning (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Integration (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Integration (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
     "Course Name": "Strategically Focused Project Management",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Integration (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Integration (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Project Fundamentals (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Project Fundamentals (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Management (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Management (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Project Management Introduction (PMBOK� Sixth Edition)",
+    "Course Name": "Project Management Introduction (PMBOK Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Management (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Management (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "The Process Groups (PMBOK� Guide Sixth Edition)",
+    "Course Name": "The Process Groups (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Management (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Management (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Ethical Standards and PMI� Core Values",
+    "Course Name": "Ethical Standards and PMI Core Values",
     "Product Line": "Project Management Curriculum",
     "Topic": "Project Management Ethics and Values"
   },
@@ -5015,121 +5008,121 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Procurement Management (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Procurement Management (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Procurement (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Procurement (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Procurement Planning (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Procurement Planning (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Procurement (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Procurement (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Manage and Control Quality (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Manage and Control Quality (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Quality (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Quality (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Planning Quality Management (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Planning Quality Management (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Quality (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Quality (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
     "Course Name": "Quality Methodologies and Standards for Project Management",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Quality (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Quality (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Analyzing Risk (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Analyzing Risk (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Risk (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Risk (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Identifying Risk (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Identifying Risk (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Risk (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Risk (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Planning Risk Management (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Planning Risk Management (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Risk (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Risk (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Responding to Risk (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Responding to Risk (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Risk (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Risk (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Control the Project Schedule (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Control the Project Schedule (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Schedule (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Schedule (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Define and Sequence Activities (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Define and Sequence Activities (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Schedule (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Schedule (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Develop the Project Schedule (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Develop the Project Schedule (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Schedule (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Schedule (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Create Work Breakdown Structure (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Create Work Breakdown Structure (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Scope (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Scope (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Plan and Define Project Scope (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Plan and Define Project Scope (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Scope (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Scope (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Validate and Control Scope (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Validate and Control Scope (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Scope (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Scope (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Managing Stakeholder Engagement (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Managing Stakeholder Engagement (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Stakeholders (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Stakeholders (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Planning Stakeholder Engagement (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Planning Stakeholder Engagement (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Project Stakeholders (PMBOK� Guide Sixth Edition)"
+    "Topic": "Project Stakeholders (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
@@ -5141,16 +5134,16 @@
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Develop and Manage Resources (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Develop and Manage Resources (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Resource Management (PMBOK� Guide Sixth Edition)"
+    "Topic": "Resource Management (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
     "GK Code": "NA",
-    "Course Name": "Plan and Acquire Resources (PMBOK� Guide Sixth Edition)",
+    "Course Name": "Plan and Acquire Resources (PMBOK Guide Sixth Edition)",
     "Product Line": "Project Management Curriculum",
-    "Topic": "Resource Management (PMBOK� Guide Sixth Edition)"
+    "Topic": "Resource Management (PMBOK Guide Sixth Edition)"
   },
   {
     "Source": "Standard On-Demand",
