@@ -9,7 +9,9 @@ $(document).ready(function() {
             {"data": "Topic"}
         ],
         buttons: [
-            'csv'
+            'copyHtml5',
+            'excelHtml5',
+            'csvHtml5'
         ]
     } );
 } );
