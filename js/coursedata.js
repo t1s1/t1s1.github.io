@@ -3,10 +3,12 @@ $(document).ready(function() {
         "ajax": "../data/courselist.txt",
         "columns": [
             {"data": "Source"},
-            {"data": "GK Code"},
             {"data": "Course Name"},
             {"data": "Product Line"},
             {"data": "Topic"}
+        ],
+        buttons: [
+            'copy', 'excel', 'pdf'
         ]
     } );
 } );
