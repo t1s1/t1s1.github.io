@@ -10,7 +10,7 @@ $(document).ready(function() {
         ],
         dom: 'Bfrtip',
         buttons: [
-            'copy',
+            'copyHtml5',
             'excelHtml5',
             'csvHtml5'
         ]
