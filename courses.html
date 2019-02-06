@@ -25,7 +25,7 @@
     $(document).ready(function() {
       var coursetable = $('#datatable').DataTable( {
         ajax: "../data/courselist.txt",
-        dom: 'lfrtip<"clear">B',
+        dom: 'frtip<"clear">B', // lfrtip<"clear">B to include "show __ entries"
         columns: [
           {"data": "GK Code", width: "8%"},
           {"data": "Source", width: "18%"},
