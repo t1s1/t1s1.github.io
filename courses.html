@@ -24,7 +24,7 @@
 
   <script type="text/javascript" class="init">
     $(document).ready(function() {
-      //
+      // define course table when loaded
       var coursetable = $('#datatable').DataTable( {
         ajax: "../data/courselist.txt",
         dom: 'frtip<"clear">B', // lfrtip<"clear">B to include "show __ entries"
@@ -40,26 +40,27 @@
           {extend:'excel', title: 'Global Knowledge All-Access Courses'},
           {extend:'pdf', title: 'Global Knowledge All-Access Courses'},
           {extend:'print', title: 'Global Knowledge All-Access Courses'}
-        ]
-      } );
-      //
-      coursetable.columns().every( function () {
-        var column = this;
-        var select = $('<select><option value=""></option></select>')
-          .appendTo( $(column.footer()).empty() )
-          .on( 'change', function () {
-            var val = $.fn.dataTable.util.escapeRegex(
-              $(this).val()
-            );
-            
-            column
-              .search( val ? '^'+val+'$' : '', true, false )
-              .draw();
-          } );
-        
-        column.data().unique().sort().each( function ( d, j ) {
-          select.append( '<option value="'+d+'">'+d+'</option>' )
-        } );  
+        ],
+        initComplete: function () {
+            this.api().columns().every( function () {
+              var column = this;
+              // create and append selector
+              var select = $('<select><option value=""></option></select>')
+                .appendTo( $(column.footer()).empty() )
+                .on( 'change', function () {
+                  var val = $.fn.dataTable.util.escapeRegex(
+                    $(this).val()
+                  );
+                  column
+                    .search( val ? '^'+val+'$' : '', true, false )
+                    .draw();
+                } );
+              column.data().unique().sort().each( function ( d, j ) {
+                select.append( '<option value="'+d+'">'+d+'</option>' )
+              } );
+            } );
+          }
+        } );
       } );
     } );
   </script>
