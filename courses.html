@@ -44,30 +44,23 @@
       } );
       //
       coursetable.columns().every( function () {
-        var that = this;
-
-        // Create the select list and search operation
-        var select = $('<select />')
-        .appendTo(
-            this.footer()
-            )
+        var column = this;
+        var select = $('<select><option value=""></option></select>')
+          .appendTo( $(column.footer()).empty() )
           .on( 'change', function () {
-            that
-            .search( $(this).val() )
-            .draw();
-        } );
-        
-        // Get the search data for the first column and add to the select list
-        console.log(this.data().unique())
-        this
-          .cache('search')
-          .sort()
-          .unique()
-          .each( function ( d ) {
-            select.append( $('<option value="'+d+'">'+d+'</option>') );
+            var val = $.fn.dataTable.util.escapeRegex(
+              $(this).val()
+            );
+            
+            column
+              .search( val ? '^'+val+'$' : '', true, false )
+              .draw();
           } );
+        
+        column.data().unique().sort().each( function ( d, j ) {
+          select.append( '<option value="'+d+'">'+d+'</option>' )
         } );  
-      //
+      } );
     } );
   </script>
 </head>
