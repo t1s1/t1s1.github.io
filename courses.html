@@ -59,14 +59,24 @@
               select.append( '<option value="'+d+'">'+d+'</option>' )
             } );
           } );
-        }
+
+        } // end initComplete
+
+      } ); // end coursetable
+
+      $('#reset').click(function() {
+        $('#datatable_filter input').val('');
+          console.log('table1 clicked');
+          coursetable.search('').columns().search('').draw();
       } );
+      
     } );
   </script>
 </head>
 
 <body>
   <div style="margin: 100px">
+    <button id="reset" type="button">Reset</button>
     <table id="datatable" class="table table-striped table-bordered">
       <thead>
         <tr>
