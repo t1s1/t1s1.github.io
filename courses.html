@@ -65,11 +65,11 @@
       } ); // end coursetable
 
       $('#reset').click(function() {
-        $('#datatable_filter input').val('');
-          console.log('table1 clicked');
-          coursetable.search('').columns().search('').draw();
+        $('#datatable_filter input').val(''); // SEARCH box
+        $('.column_filter').val(0); // column filters
+        coursetable.search('').columns().search('').draw(); // reset table to unfiltered results
       } );
-      
+
     } );
   </script>
 </head>
