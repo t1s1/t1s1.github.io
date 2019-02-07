@@ -43,12 +43,28 @@
         ]
       } );
       //
-      $('#Microsoft').click(function () {
-        coursetable
-          .columns( 4 )
-          .search( "Microsoft" )
-          .draw();
-      } );
+      coursetable.columns( '.select-filter' ).every( function () {
+        var that = this;
+
+        // Create the select list and search operation
+        var select = $('<select />')
+        .appendTo(
+            this.footer()
+            )
+          .on( 'change', function () {
+            that
+            .search( $(this).val() )
+            .draw();
+        } );
+
+        // Get the search data for the first column and add to the select list
+        this
+          .cache( 'search' )
+          .sort()
+          .unique()
+          .each( function ( d ) {
+            select.append( $('<option value="'+d+'">'+d+'</option>') );
+          } );
       //
     } );
   </script>
@@ -56,7 +72,6 @@
 
 <body>
   <div style="margin: 100px">
-    <button type-"button" id="Microsoft">Microsoft</button>
     <table id="datatable" class="table table-striped table-bordered">
       <thead>
         <tr>
