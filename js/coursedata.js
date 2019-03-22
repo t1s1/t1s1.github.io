@@ -10,7 +10,7 @@ $(document).ready(function() {
             {"data": "Topic"}
         ],
         buttons: [ "'csv', 'excel', 'pdf', 'print'" ],
-        pageLength: 20
+        "pageLength": 20
     } );
     coursetable.buttons().container().appendTo( $('.col-sm-6:eq(0)', coursetable.table().container() ) );
 } );
