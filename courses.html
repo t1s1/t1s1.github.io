@@ -29,11 +29,11 @@
         ajax: "../data/courselist.txt",
         dom: 'frtip<"clear">B', // lfrtip<"clear">B to include "show __ entries"
         columns: [
-          {"data": "GK Code", width: "8%"},
-          {"data": "Source", width: "18%"},
-          {"data": "Course Name", width: null},
           {"data": "Product Line", width: "20%"},
-          {"data": "Topic", width: "17%"}
+          {"data": "Course Name", width: null},
+          {"data": "Topic", width: "17%"},
+          {"data": "Source", width: "18%"},
+          {"data": "GK Code", width: "8%"}
         ],
         buttons: [
           {extend:'csv', title: 'Global Knowledge All-Access Courses'},
@@ -44,9 +44,9 @@
         initComplete: function () {
           this.api().columns().every( function () {
             var column = this;
-            // create and append selector
+            // create and append columnn filter
             var select = $('<select class="column_filter"><option value=""></option></select>')
-              .appendTo( $(column.footer()).empty() )
+              .appendTo( $(column.header()).empty() )
               .on( 'change', function () {
                 var val = $.fn.dataTable.util.escapeRegex(
                   $(this).val()
