@@ -75,7 +75,7 @@
                var term = $(this).val();
                 table.column( i ).search(term, false, false ).draw();
             } );
-        table.column( i ).data().unique().sort().each( function ( d, j ) {
+        coursetable.column( i ).data().unique().sort().each( function ( d, j ) {
               select.append( '<option value="'+d+'">'+d+'</option>' )
         } );
       } );
