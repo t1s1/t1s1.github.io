@@ -73,7 +73,7 @@
           .appendTo( $(this).empty() )
           .on( 'change', function () {
             var term = $.fn.dataTable.util.escapeRegex($(this).val());
-            coursetable.column( i ).search( val ? '^'+val+'$' : '', true, false ).draw();
+            coursetable.column( i ).search( term, false, false ).draw();
           } );
         coursetable.column( i ).data().unique().sort().each( function ( d, j ) {
           select.append( '<option value="'+d+'">'+d+'</option>' )
