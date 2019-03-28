@@ -44,35 +44,24 @@
         lengthChange: false,
         pageLength: 20,
         initComplete: function() {
-          // set up filtering for selected columns
-          $(".data_col").not(":eq(1),:eq(4)").each( function ( i ) {
-            var select = $('<select><option value=""></option></select>')
-              .appendTo( $(this).empty() )
-              .on( 'change', function () {
-                var term = $(this).val();
-                coursetable.column( i ).search( term, false, false ).draw();
+          // set up filtering
+          $(".data_col").each( function ( i ) {
+            // only certain columns
+            if(i !== 1 && i !== 4) {
+              var select = $('<select><option value=""></option></select>')
+                .appendTo( $(this).empty() )
+                .on( 'change', function () {
+                  var term = $(this).val();
+                  coursetable.column( i ).search( term, false, false ).draw();
+                } );
+              coursetable.column( i ).data().unique().sort().each( function ( d, j ) {
+                select.append( '<option value="'+d+'">'+d+'</option>' )
               } );
-            coursetable.column( i ).data().unique().sort().each( function ( d, j ) {
-              select.append( '<option value="'+d+'">'+d+'</option>' )
-            } );
+            } // end if
+            
           } );
         }
       } ); // end coursetable
-
-      // set up filtering for selected columns
-      /*
-      $(".data_col").not(":eq(1),:eq(4)").each( function ( i ) {
-        var select = $('<select><option value=""></option></select>')
-          .appendTo( $(this).empty() )
-          .on( 'change', function () {
-            var term = $(this).val();
-            coursetable.column( i ).search( term, false, false ).draw();
-          } );
-        coursetable.column( i ).data().unique().sort().each( function ( d, j ) {
-          select.append( '<option value="'+d+'">'+d+'</option>' )
-        } );
-      } );
-      */
 
       $('#reset').click(function() {
         $('#datatable_filter input').val(''); // SEARCH box
