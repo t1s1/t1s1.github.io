@@ -72,7 +72,7 @@
         var select = $('<select><option value=""></option></select>')
           .appendTo( $(this).empty() )
           .on( 'change', function () {
-            var term = $.fn.dataTable.util.escapeRegex($(this).val());
+            var term = $(this).val();
             coursetable.column( i ).search( term, false, false ).draw();
           } );
         coursetable.column( i ).data().unique().sort().each( function ( d, j ) {
