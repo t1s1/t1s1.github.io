@@ -43,7 +43,20 @@
         ],
         lengthChange: false,
         pageLength: 20,
-        //initComplete: 
+        initComplete: function() {
+          // set up filtering for selected columns
+          $(".data_col").not(":eq(1),:eq(4)").each( function ( i ) {
+            var select = $('<select><option value=""></option></select>')
+              .appendTo( $(this).empty() )
+              .on( 'change', function () {
+                var term = $(this).val();
+                coursetable.column( i ).search( term, false, false ).draw();
+              } );
+            coursetable.column( i ).data().unique().sort().each( function ( d, j ) {
+              select.append( '<option value="'+d+'">'+d+'</option>' )
+            } );
+          } );
+        }
       } ); // end coursetable
 
       // set up filtering for selected columns
