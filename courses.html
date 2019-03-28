@@ -44,7 +44,7 @@
         lengthChange: false,
         pageLength: 20,
         initComplete: function () {
-          this.api().columns()..not(":eq(2),:eq(3),:eq(4)").every( function () {
+          this.api().columns().not(":eq(2),:eq(3),:eq(4)").every( function () {
             var column = this;
             // create and append columnn filter
             var select = $('<select class="column_filter"><option value=""></option></select>')
