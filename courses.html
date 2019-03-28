@@ -60,6 +60,7 @@
       } ); // end coursetable
 
       // set up filtering for selected columns
+      /*
       $(".data_col").not(":eq(1),:eq(4)").each( function ( i ) {
         var select = $('<select><option value=""></option></select>')
           .appendTo( $(this).empty() )
@@ -71,6 +72,7 @@
           select.append( '<option value="'+d+'">'+d+'</option>' )
         } );
       } );
+      */
 
       $('#reset').click(function() {
         $('#datatable_filter input').val(''); // SEARCH box
