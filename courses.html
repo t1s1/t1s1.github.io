@@ -72,6 +72,9 @@
         var select = $('<select><option value=""></option></select>')
           .appendTo( $(this).empty() )
           .on( 'change', function () {
+            var val = $.fn.dataTable.util.escapeRegex(
+              consold.log("---"+$(this).val())
+            );
             var term = $(this).val();
             coursetable.column( i ).search( term, false, false ).draw();
           } );
