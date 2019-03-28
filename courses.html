@@ -70,13 +70,13 @@
 
      $(".filter_col").each( function ( i ) {
         var select = $('<select><option value=""></option></select>')
-            .appendTo( $(this).empty() )
-            .on( 'change', function () {
-               var term = $(this).val();
-                table.column( i ).search(term, false, false ).draw();
-            } );
+          .appendTo( $(this).empty() )
+          .on( 'change', function () {
+            var term = $.fn.dataTable.util.escapeRegex($(this).val());
+            coursetable.column( i )..search( val ? '^'+val+'$' : '', true, false ).draw();
+          } );
         coursetable.column( i ).data().unique().sort().each( function ( d, j ) {
-              select.append( '<option value="'+d+'">'+d+'</option>' )
+          select.append( '<option value="'+d+'">'+d+'</option>' )
         } );
       } );
 
