@@ -78,6 +78,7 @@
         table.column( i ).data().unique().sort().each( function ( d, j ) {
               select.append( '<option value="'+d+'">'+d+'</option>' )
         } );
+      } );
 
       $('#reset').click(function() {
         $('#datatable_filter input').val(''); // SEARCH box
