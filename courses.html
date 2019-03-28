@@ -41,6 +41,8 @@
           {extend:'pdf', title: 'Global Knowledge All-Access Courses'},
           {extend:'print', title: 'Global Knowledge All-Access Courses'}
         ],
+        lengthChange: false,
+        pageLength: 20,
         initComplete: function () {
           this.api().columns().every( function () {
             var column = this;
