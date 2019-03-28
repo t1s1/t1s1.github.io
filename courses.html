@@ -48,7 +48,7 @@
           $(".filterhead").each( function ( i ) {
             // only certain columns
             if(i !== 1 && i !== 4) {
-              var select = $('<select><option value=""></option></select>')
+              var select = $('<select><option value="">Filter</option></select>')
                 .appendTo( $(this).empty() )
                 .on( 'change', function () {
                   var term = $(this).val();
