@@ -43,8 +43,9 @@
         ],
         lengthChange: false,
         pageLength: 20,
+        /*
         initComplete: function () {
-          this.api().columns().not(":eq(2),:eq(3),:eq(4)").every( function () {
+          this.api().columns().every( function () {
             var column = this;
             // create and append columnn filter
             var select = $('<select class="column_filter"><option value=""></option></select>')
@@ -61,10 +62,22 @@
               select.append( '<option value="'+d+'">'+d+'</option>' )
             } );
           } );
-
         } // end initComplete
+        */
 
       } ); // end coursetable
+
+
+     $(".filter_col").each( function ( i ) {
+        var select = $('<select><option value=""></option></select>')
+            .appendTo( $(this).empty() )
+            .on( 'change', function () {
+               var term = $(this).val();
+                table.column( i ).search(term, false, false ).draw();
+            } );
+        table.column( i ).data().unique().sort().each( function ( d, j ) {
+              select.append( '<option value="'+d+'">'+d+'</option>' )
+        } );
 
       $('#reset').click(function() {
         $('#datatable_filter input').val(''); // SEARCH box
@@ -82,10 +95,10 @@
     <table id="datatable" class="table table-striped table-bordered">
       <thead>
         <tr>
-          <th>Product Line</th>
+          <th class="filter_col">Product Line</th>
           <th>Course Name</th>
-          <th>Topic</th>
-          <th>Topic</th>
+          <th class="filter_col">Topic</th>
+          <th class="filter_col">Type</th>
           <th>Code</th>
         </tr>
       </thead>
