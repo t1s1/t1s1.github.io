@@ -10,7 +10,10 @@
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css"/>
   <style type="text/css">
     #datatable_filter input {width: 320px;}
-    #datatable {table-layout: fixed}
+    #datatable {table-layout: fixed;}
+    th.filterhead.wide   { width: 25%;}
+    /*th.filterhead.norm   { width: 50%;}*/
+    th.filterhead.narrow { width: 10%;}
   </style>
 
   <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
@@ -33,14 +36,14 @@
         dom: 'frtip<"clear">B', // lfrtip<"clear">B to include "show __ entries"
         autoWidth: false,
         columns: [
-          {"data": "Product Line", width: "20%"},
-          {"data": "Course Name", width: null},
-          {"data": "Topic", width: "17%"}/*,
-          {"data": "Type_ILT", width: "8%"},
-          {"data": "Type_LP", width: "8%"},
-          {"data": "Type_SS", width: "8%"},
-          {"data": "Type_CLP", width: "8%"},
-          {"data": "GK Code", width: "8%"} */
+          {"data": "Product Line"},
+          {"data": "Course Name"},
+          {"data": "Topic"},
+          {"data": "Type_ILT"},
+          {"data": "Type_LP"},
+          {"data": "Type_SS"},
+          {"data": "Type_CLP"},
+          {"data": "GK Code"}
         ],
         buttons: [
           {extend:'csv', title: 'Global Knowledge All-Access Courses'},
@@ -86,28 +89,24 @@
     <table id="datatable" class="table table-striped table-bordered">
       <thead>
         <tr>
-          <th class="filterhead"></th>
-          <th class="filterhead"></th>
-          <th class="filterhead"></th>
-          <!--
-          <th class="filterhead"></th>
-          <th class="filterhead"></th>
-          <th class="filterhead"></th>
-          <th class="filterhead"></th>
-          <th class="filterhead"></th>
-        -->
+          <th class="filterhead norm"></th>
+          <th class="filterhead wide"></th>
+          <th class="filterhead norm"></th>
+          <th class="filterhead narrow"></th>
+          <th class="filterhead narrow"></th>
+          <th class="filterhead narrow"></th>
+          <th class="filterhead narrow"></th>
+          <th class="filterhead narrow"></th>
         </tr>
         <tr>
           <th>Product Line</th>
           <th>Course Name</th>
           <th>Topic</th>
-          <!--
           <th><img src="img/AllAccessLiveCatalog.png" title="Classroom & Virtual"height="24" width="24"></th>
           <th><img src="img/StandardOnDemand.png" title="Standard On-Demand" height="24" width="24"></th>
           <th><img src="img/OfficeProductivityOnDemand.png" title="Office Productivty" height="24" width="24"></th>
           <th><img src="img/EnhancedOnDemand.png" title="Enhanced On-Demand" height="24" width="24"></th>
           <th>Code</th>
-        -->
         </tr>
       </thead>
     </table>
