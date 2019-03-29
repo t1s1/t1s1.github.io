@@ -28,14 +28,15 @@
       var coursetable = $('#datatable').DataTable( {
         ajax: "../data/courselist.txt",
         dom: 'frtip<"clear">B', // lfrtip<"clear">B to include "show __ entries"
+        autoWidth: false,
         columns: [
           {"data": "Product Line", width: "20%"},
           {"data": "Course Name", width: null},
           {"data": "Topic", width: "17%"},
-          {"data": "Type_ILT", width: "4%"},
-          {"data": "Type_LP", width: "4%"},
-          {"data": "Type_SS", width: "4%"},
-          {"data": "Type_CLP", width: "4%"},
+          {"data": "Type_ILT", width: "8%"},
+          {"data": "Type_LP", width: "8%"},
+          {"data": "Type_SS", width: "8%"},
+          {"data": "Type_CLP", width: "8%"},
           {"data": "GK Code", width: "8%"}
         ],
         buttons: [
@@ -95,10 +96,10 @@
           <th>Product Line</th>
           <th>Course Name</th>
           <th>Topic</th>
-          <th><img src="img/AllAccessLiveCatalog.png" alt="Classroom & Virtual"height="24" width="24"></th>
-          <th><img src="img/StandardOnDemand.png" alt="Standard On-Demand" height="24" width="24"></th>
-          <th><img src="img/OfficeProductivityOnDemand.png" alt="Office Productivty" height="24" width="24"></th>
-          <th><img src="img/EnhancedOnDemand.png" alt="Enhanced On-Demand" height="24" width="24"></th>
+          <th><img src="img/AllAccessLiveCatalog.png" title="Classroom & Virtual"height="24" width="24"></th>
+          <th><img src="img/StandardOnDemand.png" title="Standard On-Demand" height="24" width="24"></th>
+          <th><img src="img/OfficeProductivityOnDemand.png" title="Office Productivty" height="24" width="24"></th>
+          <th><img src="img/EnhancedOnDemand.png" title="Enhanced On-Demand" height="24" width="24"></th>
           <th>Code</th>
         </tr>
       </thead>
