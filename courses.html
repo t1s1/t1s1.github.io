@@ -8,7 +8,10 @@
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.5.2/css/buttons.dataTables.min.css">
   <link rel="stylesheet" type="text/css" href="https://www.globalknowledge.com/bundles/css">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css"/>
-  <style type="text/css">#datatable_filter input {width: 320px;}</style>
+  <style type="text/css">
+    #datatable_filter input {width: 320px;}
+    #datatable {table-layout: fixed}
+  </style>
 
   <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
   <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
@@ -38,9 +41,6 @@
           {"data": "Type_SS", width: "8%"},
           {"data": "Type_CLP", width: "8%"},
           {"data": "GK Code", width: "8%"}
-        ],
-        columnDefs: [
-          {targets: [ 0], width: "40%"}
         ],
         buttons: [
           {extend:'csv', title: 'Global Knowledge All-Access Courses'},
