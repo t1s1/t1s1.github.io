@@ -5,7 +5,7 @@
    "Course Name": "Effective Stakeholder Communication",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -15,7 +15,7 @@
    "Course Name": "SSCP Certification Prep Course",
    "Product Line": "Non-vendor IT",
    "Topic": "Security",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -25,7 +25,7 @@
    "Course Name": "Cloud Service Manager",
    "Product Line": "Business Training",
    "Topic": "Cloud",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -35,7 +35,7 @@
    "Course Name": "Cloud Security Manager",
    "Product Line": "Business Training",
    "Topic": "Cloud",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -45,7 +45,7 @@
    "Course Name": "Cloud Technology Associate",
    "Product Line": "Business Training",
    "Topic": "Cloud",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -55,7 +55,7 @@
    "Course Name": "Cloud Solutions Architect",
    "Product Line": "Business Training",
    "Topic": "Cloud",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -65,7 +65,7 @@
    "Course Name": "CyberSec First Responder: Threat Detection and Response",
    "Product Line": "Non-vendor IT",
    "Topic": "Security",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -75,7 +75,7 @@
    "Course Name": "Modern Web Development",
    "Product Line": "Application Development",
    "Topic": "Programming",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -85,7 +85,7 @@
    "Course Name": "CCSP Certification Prep Course",
    "Product Line": "Non-vendor IT",
    "Topic": "Security",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -95,7 +95,7 @@
    "Course Name": "Project Management Professional (PMP) Exam Prep Boot Camp",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -105,7 +105,7 @@
    "Course Name": "TOGAF for Practioners - Level 1 & 2",
    "Product Line": "Business Training",
    "Topic": "Business Architecture",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -115,7 +115,7 @@
    "Course Name": "Agile for Development and Operations Teams",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -125,7 +125,7 @@
    "Course Name": "Negotiation Skills for Project Managers",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -135,7 +135,7 @@
    "Course Name": "Leading Complex Projects",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -145,7 +145,7 @@
    "Course Name": "Effective Facilitation for Business Analysts",
    "Product Line": "Business Training",
    "Topic": "Business Analysis",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -155,7 +155,7 @@
    "Course Name": "Project Management, Leadership, and Communication",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -165,7 +165,7 @@
    "Course Name": "Schedule and Cost Control",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -175,7 +175,7 @@
    "Course Name": "Risk Management",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -185,7 +185,7 @@
    "Course Name": "Program Management",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -195,7 +195,7 @@
    "Course Name": "Project Troubleshooting and Recovery",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -205,7 +205,7 @@
    "Course Name": "Project Portfolio Management",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -215,7 +215,7 @@
    "Course Name": "IT Project Management",
    "Product Line": "Business Training",
    "Topic": "Project Management - IT",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -225,7 +225,7 @@
    "Course Name": "Earned Value Management",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -235,7 +235,7 @@
    "Course Name": "Project Management Fundamentals",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -245,7 +245,7 @@
    "Course Name": "Business Analysis Essentials",
    "Product Line": "Business Training",
    "Topic": "Business Analysis",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -255,7 +255,7 @@
    "Course Name": "Requirements Development, Documentation and Management",
    "Product Line": "Business Training",
    "Topic": "Business Analysis",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -265,7 +265,7 @@
    "Course Name": "Computer Hacking Forensic Investigator (CHFI) v9",
    "Product Line": "Non-vendor IT",
    "Topic": "Security",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -275,7 +275,7 @@
    "Course Name": "CompTIA Security+ Certification Prep Course",
    "Product Line": "Non-vendor IT",
    "Topic": "Security",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -285,7 +285,7 @@
    "Course Name": "Certified Ethical Hacker v10",
    "Product Line": "Non-vendor IT",
    "Topic": "Security",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -295,7 +295,7 @@
    "Course Name": "Maximizing your Emotional Intelligence",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -305,7 +305,7 @@
    "Course Name": "Leading High Performing Teams",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -315,7 +315,7 @@
    "Course Name": "Leading Continuous Change",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -325,7 +325,7 @@
    "Course Name": "ITIL Practitioner",
    "Product Line": "Business Training",
    "Topic": "ITIL",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -335,7 +335,7 @@
    "Course Name": "Business Writing Essentials",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -345,7 +345,7 @@
    "Course Name": "Technical Communications Essentials",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -355,7 +355,7 @@
    "Course Name": "Agile Scrum Foundation Certification",
    "Product Line": "Business Training",
    "Topic": "Project Management",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -365,7 +365,7 @@
    "Course Name": "DevOps Foundation Certification",
    "Product Line": "Business Training",
    "Topic": "DevOps",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -375,7 +375,7 @@
    "Course Name": "Cybersecurity Specialization: Governance Risk and Compliance",
    "Product Line": "Non-vendor IT",
    "Topic": "Security",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -385,7 +385,7 @@
    "Course Name": "The Power of Influence in the Workplace",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -395,7 +395,7 @@
    "Course Name": "Coach.Coach.Coach. - Leading with Impact",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -405,7 +405,7 @@
    "Course Name": "Communicating for Clarity",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -415,7 +415,7 @@
    "Course Name": "Consulting Fundamentals (CO10)",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -425,7 +425,7 @@
    "Course Name": "Analysis and Problem Solving for Consultants (CO20)",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -435,7 +435,7 @@
    "Course Name": "Making Recommendations - Communications Skills for Consultants (CO30)",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -445,7 +445,7 @@
    "Course Name": "Developing Client Relationships for Consultants (CO40)",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -455,7 +455,7 @@
    "Course Name": "Managing Multiple Priorities",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -465,7 +465,7 @@
    "Course Name": "GK CISSP Certification Prep Course",
    "Product Line": "Non-vendor IT",
    "Topic": "Security",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -475,7 +475,7 @@
    "Course Name": "CISM Prep Course",
    "Product Line": "Non-vendor IT",
    "Topic": "Security",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -485,7 +485,7 @@
    "Course Name": "Troubleshooting TCP/IP Networks with Wireshark",
    "Product Line": "Non-vendor IT",
    "Topic": "Networking",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -495,7 +495,7 @@
    "Course Name": "ITIL� 4 Foundation Bridge",
    "Product Line": "Business Training",
    "Topic": "ITIL",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -505,7 +505,7 @@
    "Course Name": "ITIL Foundation",
    "Product Line": "Business Training",
    "Topic": "ITIL",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -515,7 +515,7 @@
    "Course Name": "VMware vSphere: Install, Configure, Manage [V6.7]",
    "Product Line": "VMware",
    "Topic": "vSphere",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -525,7 +525,7 @@
    "Course Name": "VMware Horizon 7: Install, Configure, Manage [V7.3]",
    "Product Line": "VMware",
    "Topic": "VMware",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -536,7 +536,7 @@
    "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -546,7 +546,7 @@
    "Product Line": "Application Development",
    "Topic": "Cybersecurity",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -556,7 +556,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -566,7 +566,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -576,7 +576,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -586,7 +586,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -596,7 +596,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -606,7 +606,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -616,7 +616,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -626,7 +626,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -636,7 +636,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -646,7 +646,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -656,7 +656,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -666,7 +666,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -676,7 +676,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -686,7 +686,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -696,7 +696,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -706,7 +706,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -716,7 +716,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -726,7 +726,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -736,7 +736,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -746,7 +746,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -756,7 +756,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -766,7 +766,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -776,7 +776,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -786,7 +786,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -796,7 +796,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -806,7 +806,7 @@
    "Product Line": "Non-vendor IT",
    "Topic": "Blockchain",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -816,7 +816,7 @@
    "Product Line": "Non-vendor IT",
    "Topic": "Networking",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -826,7 +826,7 @@
    "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -835,8 +835,8 @@
    "Course Name": "DevOps Implementation Essentials",
    "Product Line": "Business Training",
    "Topic": "DevOps",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -845,8 +845,8 @@
    "Course Name": "Agile Project Management",
    "Product Line": "Business Training",
    "Topic": "Project Management - IT",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -855,8 +855,8 @@
    "Course Name": "CompTIA IT Fundamentals",
    "Product Line": "Application Development",
    "Topic": "Networking",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -865,8 +865,8 @@
    "Course Name": "Understanding Networking Fundamentals",
    "Product Line": "Non-vendor IT",
    "Topic": "Networking",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -875,8 +875,8 @@
    "Course Name": "CompTIA Network+ Certification Prep (N10-007)",
    "Product Line": "Non-vendor IT",
    "Topic": "Networking",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -885,8 +885,8 @@
    "Course Name": "CompTIA A+ Certification Prep",
    "Product Line": "Non-vendor IT",
    "Topic": "Networking",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -895,8 +895,8 @@
    "Course Name": "The Business Analyst in an Agile Environment",
    "Product Line": "Business Training",
    "Topic": "Business Analysis",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -905,8 +905,8 @@
    "Course Name": "Active Leadership for IT Professionals",
    "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -915,8 +915,8 @@
    "Course Name": "TCP/IP Networking",
    "Product Line": "Non-vendor IT",
    "Topic": "Networking",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -925,8 +925,8 @@
    "Course Name": "Cybersecurity Foundations",
    "Product Line": "Non-vendor IT",
    "Topic": "Security",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -935,7 +935,7 @@
    "Course Name": "Virtualizing Enterprise Desktops and Apps (M20694)",
    "Product Line": "Microsoft",
    "Topic": "Windows Client",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -945,7 +945,7 @@
    "Course Name": "SQL Server Performance Tuning and Optimization (M55144)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -955,7 +955,7 @@
    "Course Name": "Deploying Voice Workloads for Skype for Business Online and Server 2015 (M40409)",
    "Product Line": "Microsoft",
    "Topic": "Unified Communications",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -965,7 +965,7 @@
    "Course Name": "SharePoint 2016 Site Collections and Site Owner Administration  (M55234)",
    "Product Line": "Microsoft",
    "Topic": "Sharepoint",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -975,7 +975,7 @@
    "Course Name": "Installing, Configuring, and Maintaining Windows 10",
    "Product Line": "Microsoft",
    "Topic": "Windows Client",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -985,7 +985,7 @@
    "Course Name": "Managing Windows Environments with Group Policy (M50255)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -995,7 +995,7 @@
    "Course Name": "Configuring, Managing, and Troubleshooting Microsoft Exchange Server 2010 Service Pack 2",
    "Product Line": "Microsoft",
    "Topic": "Exchange",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1005,7 +1005,7 @@
    "Course Name": "Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack (M20537)",
    "Product Line": "Microsoft",
    "Topic": "Azure",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1015,7 +1015,7 @@
    "Course Name": "Programming with C# using Microsoft Visual Studio 2010 (M10266)",
    "Product Line": "Microsoft",
    "Topic": ".NET",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1025,7 +1025,7 @@
    "Course Name": "Programming in Visual  Basic with Microsoft Visual Studio 2010 (M10550)",
    "Product Line": "Microsoft",
    "Topic": ".NET",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1035,7 +1035,7 @@
    "Course Name": "Developing ASP.NET 4 MVC Web Applications (M20486)",
    "Product Line": "Microsoft",
    "Topic": ".NET",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1045,7 +1045,7 @@
    "Course Name": "Developing Windows Azure and Web Services (M20487)",
    "Product Line": "Microsoft",
    "Topic": ".NET",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1055,7 +1055,7 @@
    "Course Name": "Designing Solutions for Microsoft SQL Server 2014 (M20465)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1065,7 +1065,7 @@
    "Course Name": "Designing Business Intelligence Solutions with Microsoft SQL Server 2014 (M20467)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1075,7 +1075,7 @@
    "Course Name": "Implementing an Advanced Server Infrastructure (M20414)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1085,7 +1085,7 @@
    "Course Name": "System Center 2012 Orchestrator (M55007)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1095,7 +1095,7 @@
    "Course Name": "M55033 SharePoint 2013 Site Collection and Site Administration",
    "Product Line": "Microsoft",
    "Topic": "Sharepoint",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1105,7 +1105,7 @@
    "Course Name": "Windows PowerShell Scripting and Toolmaking",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1115,7 +1115,7 @@
    "Course Name": "Implementing Data Models and Reports with Microsoft SQL Server 2014 (M20466)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1125,7 +1125,7 @@
    "Course Name": "Microsoft Dynamics 365 Customization and Configuration (M55242)",
    "Product Line": "Microsoft",
    "Topic": "CRM",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1135,7 +1135,7 @@
    "Course Name": "Microsoft Dynamics 365 for Customer Service",
    "Product Line": "Microsoft",
    "Topic": "CRM",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1145,7 +1145,7 @@
    "Course Name": "Microsoft Dynamics 365 for Sales",
    "Product Line": "Microsoft",
    "Topic": "CRM",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1155,7 +1155,7 @@
    "Course Name": "Microsoft Cloud Workshop: Container and DevOps",
    "Product Line": "Microsoft",
    "Topic": "Cloud",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1165,7 +1165,7 @@
    "Course Name": "Microsoft Cloud Workshop - Enterprise Class Networking",
    "Product Line": "Microsoft",
    "Topic": "Cloud",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1175,7 +1175,7 @@
    "Course Name": "Designing and Implementing Cloud Data Platform Solutions (M55247)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1185,7 +1185,7 @@
    "Course Name": "Performing Big Data Engineering on Microsoft Cloud Services (M20776)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1195,7 +1195,7 @@
    "Course Name": "Microsoft Azure Infrastructure and Deployment Track (AZ-100)",
    "Product Line": "Microsoft",
    "Topic": "Azure",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1205,7 +1205,7 @@
    "Course Name": "Microsoft Azure Integration and Security Track (AZ-101)",
    "Product Line": "Microsoft",
    "Topic": "Azure",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1215,7 +1215,7 @@
    "Course Name": "Microsoft Azure Solutions Architect Technologies Track (AZ-300)",
    "Product Line": "Microsoft",
    "Topic": "Azure",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1225,7 +1225,7 @@
    "Course Name": "Microsoft Azure Solutions Architect Design Track (AZ-301)",
    "Product Line": "Microsoft",
    "Topic": "Azure",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1235,7 +1235,7 @@
    "Course Name": "Microsoft Azure Developer Core Solutions Track (AZ-200)",
    "Product Line": "Microsoft",
    "Topic": "Azure",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1245,7 +1245,7 @@
    "Course Name": "Microsoft Azure Administrator Certification Transition (AZ-102)",
    "Product Line": "Microsoft",
    "Topic": "Azure",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1255,7 +1255,7 @@
    "Course Name": "Microsoft TEAMS",
    "Product Line": "Microsoft",
    "Topic": "MS Applications",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1265,7 +1265,7 @@
    "Course Name": "Implementing Microsoft Azure Cosmos DB Solutions (M20777)",
    "Product Line": "Microsoft",
    "Topic": "Azure",
-   "ILT": "YES",
+   "ILT": " ✓ ",
    "LP": "-",
    "SS": "-",
    "CLP": "-"
@@ -1276,7 +1276,7 @@
    "Product Line": "Microsoft",
    "Topic": "Server",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1286,7 +1286,7 @@
    "Product Line": "Microsoft",
    "Topic": "SQL",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1296,7 +1296,7 @@
    "Product Line": "Microsoft",
    "Topic": "SQL",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1306,7 +1306,7 @@
    "Product Line": "Microsoft",
    "Topic": "Server",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1316,7 +1316,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1326,7 +1326,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1336,7 +1336,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1346,7 +1346,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1356,7 +1356,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1366,7 +1366,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1376,7 +1376,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1386,7 +1386,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1396,7 +1396,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1406,7 +1406,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1416,7 +1416,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1426,7 +1426,7 @@
    "Product Line": "Microsoft",
    "Topic": "Windows Client",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1436,7 +1436,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1446,7 +1446,7 @@
    "Product Line": "Microsoft",
    "Topic": "Server",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1456,7 +1456,7 @@
    "Product Line": "Microsoft",
    "Topic": "Server",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1466,7 +1466,7 @@
    "Product Line": "Microsoft",
    "Topic": "Server",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1476,7 +1476,7 @@
    "Product Line": "Microsoft",
    "Topic": "Exchange",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1486,7 +1486,7 @@
    "Product Line": "Microsoft",
    "Topic": "Exchange",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1496,7 +1496,7 @@
    "Product Line": "Microsoft",
    "Topic": "Sharepoint",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1506,7 +1506,7 @@
    "Product Line": "Microsoft",
    "Topic": "Sharepoint",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1516,7 +1516,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1526,7 +1526,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1536,7 +1536,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1546,7 +1546,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1556,7 +1556,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1566,7 +1566,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1576,7 +1576,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1586,7 +1586,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1596,7 +1596,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1606,7 +1606,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1616,7 +1616,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1626,7 +1626,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1636,7 +1636,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1646,7 +1646,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1656,7 +1656,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1666,7 +1666,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1676,7 +1676,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1686,7 +1686,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1696,7 +1696,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1706,7 +1706,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1716,7 +1716,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1726,7 +1726,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1736,7 +1736,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1746,7 +1746,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1756,7 +1756,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1766,7 +1766,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1776,7 +1776,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1786,7 +1786,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1796,7 +1796,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1806,7 +1806,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1816,7 +1816,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1826,7 +1826,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1836,7 +1836,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1846,7 +1846,7 @@
    "Product Line": "Microsoft",
    "Topic": "SQL",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1856,7 +1856,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1866,7 +1866,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1876,7 +1876,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1886,7 +1886,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1896,7 +1896,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1906,7 +1906,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1916,7 +1916,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1926,7 +1926,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1936,7 +1936,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1946,7 +1946,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1956,7 +1956,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1966,7 +1966,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1976,7 +1976,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1986,7 +1986,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -1996,7 +1996,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2006,7 +2006,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2016,7 +2016,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2026,7 +2026,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2036,7 +2036,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2046,7 +2046,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2056,7 +2056,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2066,7 +2066,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2076,7 +2076,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2086,7 +2086,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2096,7 +2096,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2106,7 +2106,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2116,7 +2116,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2126,7 +2126,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2136,7 +2136,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2146,7 +2146,7 @@
    "Product Line": "Microsoft",
    "Topic": "Security",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2156,7 +2156,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2166,7 +2166,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2176,7 +2176,7 @@
    "Product Line": "Microsoft",
    "Topic": "Programming",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2186,7 +2186,7 @@
    "Product Line": "Microsoft",
    "Topic": "Exchange",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2196,7 +2196,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2206,7 +2206,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2216,7 +2216,7 @@
    "Product Line": "Microsoft",
    "Topic": "SQL",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2226,7 +2226,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2236,7 +2236,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2246,7 +2246,7 @@
    "Product Line": "Microsoft",
    "Topic": "SQL",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2256,7 +2256,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2266,7 +2266,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2276,7 +2276,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2286,7 +2286,7 @@
    "Product Line": "Microsoft",
    "Topic": "Office",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2296,7 +2296,7 @@
    "Product Line": "Microsoft",
    "Topic": "Office",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2306,7 +2306,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2316,7 +2316,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2326,7 +2326,7 @@
    "Product Line": "Microsoft",
    "Topic": "Other",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2336,7 +2336,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2346,7 +2346,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2356,7 +2356,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2366,7 +2366,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2376,7 +2376,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2386,7 +2386,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2396,7 +2396,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2406,7 +2406,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2416,7 +2416,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2426,7 +2426,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2436,7 +2436,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2446,7 +2446,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2456,7 +2456,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2466,7 +2466,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2476,7 +2476,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2486,7 +2486,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2496,7 +2496,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2506,7 +2506,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2516,7 +2516,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2526,7 +2526,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2536,7 +2536,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2546,7 +2546,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2556,7 +2556,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2566,7 +2566,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2576,7 +2576,7 @@
    "Product Line": "Microsoft",
    "Topic": "Author",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2586,7 +2586,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2596,7 +2596,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2606,7 +2606,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2616,7 +2616,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2626,7 +2626,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2636,7 +2636,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2646,7 +2646,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2656,7 +2656,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2666,7 +2666,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2676,7 +2676,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2686,7 +2686,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2696,7 +2696,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2706,7 +2706,7 @@
    "Product Line": "Microsoft",
    "Topic": "Azure",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2716,7 +2716,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2726,7 +2726,7 @@
    "Product Line": "Microsoft",
    "Topic": "Cloud",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2736,7 +2736,7 @@
    "Product Line": "Microsoft",
    "Topic": "Server",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2746,7 +2746,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2756,7 +2756,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2766,7 +2766,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2776,7 +2776,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2786,7 +2786,7 @@
    "Product Line": "Microsoft",
    "Topic": "Database",
    "ILT": "-",
-   "LP": "YES",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2795,8 +2795,8 @@
    "Course Name": "Advanced Automated Administration with Windows PowerShell (M10962)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2805,8 +2805,8 @@
    "Course Name": "Deploying Windows Desktops and Enterprise Applications (M20695)",
    "Product Line": "Microsoft",
    "Topic": "Windows Client",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2815,8 +2815,8 @@
    "Course Name": "Introduction to Microsoft Azure for IT Professionals (M10979)",
    "Product Line": "Microsoft",
    "Topic": "Azure",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2825,8 +2825,8 @@
    "Course Name": "Cloud & Datacenter Monitoring with System Center Operations Manager (M10964)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2835,8 +2835,8 @@
    "Course Name": "Implementing and Managing Windows 10 (M20697-1)",
    "Product Line": "Microsoft",
    "Topic": "Windows Client",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2845,8 +2845,8 @@
    "Course Name": "Deploying and Managing Windows 10 Using Enterprise Services (M20697-2)",
    "Product Line": "Microsoft",
    "Topic": "Windows Client",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2855,8 +2855,8 @@
    "Course Name": "Supporting and Troubleshooting Windows 10 (M10982)",
    "Product Line": "Microsoft",
    "Topic": "Windows Client",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2865,8 +2865,8 @@
    "Course Name": "Core Solutions of Microsoft Skype for Business 2015 (M20334)",
    "Product Line": "Microsoft",
    "Topic": "Unified Communications",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2875,8 +2875,8 @@
    "Course Name": "Administering Microsoft Exchange Server 2016 (M20345-1)",
    "Product Line": "Microsoft",
    "Topic": "Exchange",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2885,8 +2885,8 @@
    "Course Name": "Designing and Deploying Microsoft Exchange Server 2016 (M20345-2)",
    "Product Line": "Microsoft",
    "Topic": "Exchange",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2895,8 +2895,8 @@
    "Course Name": "Enabling & Managing Office 365 (M20347)",
    "Product Line": "Microsoft",
    "Topic": "MS MOC",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2905,8 +2905,8 @@
    "Course Name": "Introduction to SQL Databases (M10985)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2915,8 +2915,8 @@
    "Course Name": "Updating Your Skills to SQL Server 2016 (M10986)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2925,8 +2925,8 @@
    "Course Name": "Querying Data with Transact-SQL (M20761)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2935,8 +2935,8 @@
    "Course Name": "Administering a SQL Database Infrastructure (M20764)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2945,8 +2945,8 @@
    "Course Name": "Provisioning SQL Databases (M20765)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2955,8 +2955,8 @@
    "Course Name": "Implementing a SQL Data Warehouse (M20767)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2965,8 +2965,8 @@
    "Course Name": "Developing SQL Data Models (M20768)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2975,8 +2975,8 @@
    "Course Name": "Developing SQL Databases (M20762)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2985,8 +2985,8 @@
    "Course Name": "Planning and Administering SharePoint 2016 (M20339-1)",
    "Product Line": "Microsoft",
    "Topic": "Sharepoint",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -2995,8 +2995,8 @@
    "Course Name": "Advanced Technologies of SharePoint 2016 (M20339-2)",
    "Product Line": "Microsoft",
    "Topic": "Sharepoint",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3005,8 +3005,8 @@
    "Course Name": "Analyzing Data with SQL Server Reporting Services (M10990)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3015,8 +3015,8 @@
    "Course Name": "Installation, Storage, and Compute with Windows Server 2016 (M20740)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3025,8 +3025,8 @@
    "Course Name": "Networking with Windows Server 2016 (M20741)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3035,8 +3035,8 @@
    "Course Name": "Identity with Windows Server 2016 (M20742)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3045,8 +3045,8 @@
    "Course Name": "Upgrading Your Skills to Windows Server 2016 MCSA (M20743)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3055,8 +3055,8 @@
    "Course Name": "Securing Windows Server 2016 (M20744)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3065,8 +3065,8 @@
    "Course Name": "Implementing a Software Defined Datacenter (M20745)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3075,8 +3075,8 @@
    "Course Name": "Integrating On-Premises Core Infrastructure with Microsoft Azure (M10992)",
    "Product Line": "Microsoft",
    "Topic": "Azure",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3085,8 +3085,8 @@
    "Course Name": "Integrating On-Premises Identity Infrastructure with Microsoft Azure (M10993)",
    "Product Line": "Microsoft",
    "Topic": "Azure",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3095,8 +3095,8 @@
    "Course Name": "Administering System Center Configuration Manager (M20703-1)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3105,8 +3105,8 @@
    "Course Name": "Integrating MDM and Cloud Services with System Center Configuration Manager (M20703-2)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3115,8 +3115,8 @@
    "Course Name": "Analyzing Data with PowerBI (M20778)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3125,8 +3125,8 @@
    "Course Name": "Office 365 Administration and Troubleshooting  (M10997)",
    "Product Line": "Microsoft",
    "Topic": "MS MOC",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3135,8 +3135,8 @@
    "Course Name": "Installing and Configuring Windows Server 2012 (M20410)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3145,8 +3145,8 @@
    "Course Name": "Deploying System Center 2012 Configuration Manager (M10748)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3155,8 +3155,8 @@
    "Course Name": "Administering Windows Server 2012 (M20411)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3165,8 +3165,8 @@
    "Course Name": "Programming in HTML5 with JavaScript and CSS3 (M20480)",
    "Product Line": "Microsoft",
    "Topic": ".NET",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3175,8 +3175,8 @@
    "Course Name": "Configuring Advanced Windows Server 2012 Services (M20412)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3185,8 +3185,8 @@
    "Course Name": "Programming in C# (M20483)",
    "Product Line": "Microsoft",
    "Topic": ".NET",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3195,8 +3195,8 @@
    "Course Name": "Core Solutions of Microsoft SharePoint Server 2013",
    "Product Line": "Microsoft",
    "Topic": "Sharepoint",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3205,8 +3205,8 @@
    "Course Name": "Automating Administration with Windows PowerShell (M10961)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3215,8 +3215,8 @@
    "Course Name": "Active Directory Services with Windows Server (M10969)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3225,8 +3225,8 @@
    "Course Name": "Administering the Web Server (IIS) Role of Windows Server (M10972)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3235,8 +3235,8 @@
    "Course Name": "IT Service Management with System Center Service Manager (M10965)",
    "Product Line": "Microsoft",
    "Topic": "Server",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3245,8 +3245,8 @@
    "Course Name": "Querying Microsoft SQL Server 2014 (M20461)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3255,8 +3255,8 @@
    "Course Name": "Administering Microsoft SQL Server 2014 Databases (M20462)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3265,8 +3265,8 @@
    "Course Name": "Implementing a Data Warehouse with Microsoft SQL Server 2014 (M20463)",
    "Product Line": "Microsoft",
    "Topic": "SQL",
-   "ILT": "YES",
-   "LP": "YES",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
    "SS": "-",
    "CLP": "-"
  },
@@ -3277,7 +3277,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3287,7 +3287,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3297,7 +3297,7 @@
    "Topic": "Social Media Marketing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3307,7 +3307,7 @@
    "Topic": "Social Media Marketing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3317,7 +3317,7 @@
    "Topic": "Social Media Marketing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3327,7 +3327,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3337,7 +3337,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3347,7 +3347,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3357,7 +3357,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3367,7 +3367,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3377,7 +3377,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3387,7 +3387,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3397,7 +3397,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3407,7 +3407,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3417,7 +3417,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3427,7 +3427,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3437,7 +3437,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3447,7 +3447,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3457,7 +3457,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3467,7 +3467,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3477,7 +3477,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3487,7 +3487,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3497,7 +3497,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3507,7 +3507,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3517,7 +3517,7 @@
    "Topic": "Big Data",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3527,7 +3527,7 @@
    "Topic": "Blockchain",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3537,7 +3537,7 @@
    "Topic": "Blockchain",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3547,7 +3547,7 @@
    "Topic": "Blockchain",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3557,7 +3557,7 @@
    "Topic": "Business Intelligence",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3567,7 +3567,7 @@
    "Topic": "Business Intelligence",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3577,7 +3577,7 @@
    "Topic": "Business Intelligence",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3587,7 +3587,7 @@
    "Topic": "Data Integration",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3597,7 +3597,7 @@
    "Topic": "Data Management",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3607,7 +3607,7 @@
    "Topic": "Data Science",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3617,7 +3617,7 @@
    "Topic": "Data Science",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3627,7 +3627,7 @@
    "Topic": "Data Science",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3637,7 +3637,7 @@
    "Topic": "Data Science",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3647,7 +3647,7 @@
    "Topic": "Data Science",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3657,7 +3657,7 @@
    "Topic": "Data Science",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3667,7 +3667,7 @@
    "Topic": "Data Visualization",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3677,7 +3677,7 @@
    "Topic": "Data Visualization",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3687,7 +3687,7 @@
    "Topic": "Data Visualization",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3697,7 +3697,7 @@
    "Topic": "Data Visualization",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3707,7 +3707,7 @@
    "Topic": "Data Warehousing Essentials",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3717,7 +3717,7 @@
    "Topic": "Data Warehousing Essentials",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3727,7 +3727,7 @@
    "Topic": "Database Fundamentals",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3737,7 +3737,7 @@
    "Topic": "Mentoring Assets",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3747,7 +3747,7 @@
    "Topic": "Microsoft SQL Server 2012",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3757,7 +3757,7 @@
    "Topic": "Microsoft SQL Server 2013",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3767,7 +3767,7 @@
    "Topic": "Microsoft SQL Server 2014",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3777,7 +3777,7 @@
    "Topic": "Microsoft SQL Server 2015",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3787,7 +3787,7 @@
    "Topic": "Microsoft SQL Server 2016",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3797,7 +3797,7 @@
    "Topic": "Microsoft SQL Server 2016",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3807,7 +3807,7 @@
    "Topic": "Microsoft SQL Server 2017",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3817,7 +3817,7 @@
    "Topic": "Microsoft SQL Server 2017",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3827,7 +3827,7 @@
    "Topic": "Microsoft SQL Server 2018",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3837,7 +3837,7 @@
    "Topic": "Microsoft SQL Server 2019",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3847,7 +3847,7 @@
    "Topic": "Microsoft SQL Server 2020",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3857,7 +3857,7 @@
    "Topic": "MySQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3867,7 +3867,7 @@
    "Topic": "MySQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3877,7 +3877,7 @@
    "Topic": "No SQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3887,7 +3887,7 @@
    "Topic": "No SQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3897,7 +3897,7 @@
    "Topic": "No SQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3907,7 +3907,7 @@
    "Topic": "No SQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3917,7 +3917,7 @@
    "Topic": "No SQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3927,7 +3927,7 @@
    "Topic": "No SQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3937,7 +3937,7 @@
    "Topic": "No SQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3947,7 +3947,7 @@
    "Topic": "Operational Intelligence",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3957,7 +3957,7 @@
    "Topic": "Oracle 11g",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3967,7 +3967,7 @@
    "Topic": "Oracle 11g",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3977,7 +3977,7 @@
    "Topic": "Oracle 11g",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3987,7 +3987,7 @@
    "Topic": "Oracle 12c",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -3997,7 +3997,7 @@
    "Topic": "Oracle 12c",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4007,7 +4007,7 @@
    "Topic": "Oracle 12c",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4017,7 +4017,7 @@
    "Topic": "Oracle 12c",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4027,7 +4027,7 @@
    "Topic": "Oracle 12c",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4037,7 +4037,7 @@
    "Topic": "Oracle 12c",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4047,7 +4047,7 @@
    "Topic": "Oracle 12c",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4057,7 +4057,7 @@
    "Topic": "Oracle 12c",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4067,7 +4067,7 @@
    "Topic": "Oracle ATG",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4077,7 +4077,7 @@
    "Topic": "PostgreSQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4087,7 +4087,7 @@
    "Topic": "SAS",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4097,7 +4097,7 @@
    "Topic": "SQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4107,7 +4107,7 @@
    "Topic": "Systems and Database Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4117,7 +4117,7 @@
    "Topic": "Systems and Database Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4127,7 +4127,7 @@
    "Topic": "Teradata SQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4137,7 +4137,7 @@
    "Topic": "Teradata SQL",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4147,7 +4147,7 @@
    "Topic": "Test Preps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4157,7 +4157,7 @@
    "Topic": "Microsoft Dynamics",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4167,7 +4167,7 @@
    "Topic": "Microsoft Dynamics",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4177,7 +4177,7 @@
    "Topic": "Microsoft Dynamics",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4187,7 +4187,7 @@
    "Topic": "Salesforce",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4197,7 +4197,7 @@
    "Topic": "Salesforce",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4207,7 +4207,7 @@
    "Topic": "SAP",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4217,7 +4217,7 @@
    "Topic": "SAP",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4227,7 +4227,7 @@
    "Topic": "SAP",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4237,7 +4237,7 @@
    "Topic": "TOGAF",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4247,7 +4247,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4257,7 +4257,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4267,7 +4267,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4277,7 +4277,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4287,7 +4287,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4297,7 +4297,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4307,7 +4307,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4317,7 +4317,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4327,7 +4327,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4337,7 +4337,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4347,7 +4347,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4357,7 +4357,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4367,7 +4367,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4377,7 +4377,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4387,7 +4387,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4397,7 +4397,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4407,7 +4407,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4417,7 +4417,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4427,7 +4427,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4437,7 +4437,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4447,7 +4447,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4457,7 +4457,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4467,7 +4467,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4477,7 +4477,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4487,7 +4487,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4497,7 +4497,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4507,7 +4507,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4517,7 +4517,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4527,7 +4527,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4537,7 +4537,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4547,7 +4547,7 @@
    "Topic": "Cloud Computing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4557,7 +4557,7 @@
    "Topic": "CompTIA Network+",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4567,7 +4567,7 @@
    "Topic": "CompTIA Networking, Internetworking, and Security Technologies",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4577,7 +4577,7 @@
    "Topic": "CompTIA Networking, Internetworking, and Security Technologies",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4587,7 +4587,7 @@
    "Topic": "CompTIA Networking, Internetworking, and Security Technologies",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4597,7 +4597,7 @@
    "Topic": "CompTIA Networking, Internetworking, and Security Technologies",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4607,7 +4607,7 @@
    "Topic": "Mentoring Assets",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4617,7 +4617,7 @@
    "Topic": "Network Management and Security",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4627,7 +4627,7 @@
    "Topic": "Network Management and Security",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4637,7 +4637,7 @@
    "Topic": "Network Protocols",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4647,7 +4647,7 @@
    "Topic": "Networking and Telecommunications Fundamentals",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4657,7 +4657,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4667,7 +4667,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4677,7 +4677,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4687,7 +4687,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4697,7 +4697,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4707,7 +4707,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4717,7 +4717,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4727,7 +4727,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4737,7 +4737,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4747,7 +4747,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4757,7 +4757,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4767,7 +4767,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4777,7 +4777,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4787,7 +4787,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4797,7 +4797,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4807,7 +4807,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4817,7 +4817,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4827,7 +4827,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4837,7 +4837,7 @@
    "Topic": "Security Solutions",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4847,7 +4847,7 @@
    "Topic": "Social Networking",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4857,7 +4857,7 @@
    "Topic": "Social Networking",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4867,7 +4867,7 @@
    "Topic": "Social Networking",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4877,7 +4877,7 @@
    "Topic": "Social Networking",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4887,7 +4887,7 @@
    "Topic": "Test Preps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4897,7 +4897,7 @@
    "Topic": "Wireless",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4907,7 +4907,7 @@
    "Topic": "CompTIA A+",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4917,7 +4917,7 @@
    "Topic": "CompTIA A+",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4927,7 +4927,7 @@
    "Topic": "CompTIA Linux+",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4937,7 +4937,7 @@
    "Topic": "CompTIA Linux+",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4947,7 +4947,7 @@
    "Topic": "CompTIA Server+",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4957,7 +4957,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4967,7 +4967,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4977,7 +4977,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4987,7 +4987,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -4997,7 +4997,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5007,7 +5007,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5017,7 +5017,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5027,7 +5027,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5037,7 +5037,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5047,7 +5047,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5057,7 +5057,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5067,7 +5067,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5077,7 +5077,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5087,7 +5087,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5097,7 +5097,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5107,7 +5107,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5117,7 +5117,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5127,7 +5127,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5137,7 +5137,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5147,7 +5147,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5157,7 +5157,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5167,7 +5167,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5177,7 +5177,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5187,7 +5187,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5197,7 +5197,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5207,7 +5207,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5217,7 +5217,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5227,7 +5227,7 @@
    "Topic": "DevOps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5237,7 +5237,7 @@
    "Topic": "IT Services",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5247,7 +5247,7 @@
    "Topic": "IT Services",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5257,7 +5257,7 @@
    "Topic": "Mentoring Assets",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5267,7 +5267,7 @@
    "Topic": "Microsoft Exchange Server 2013",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5277,7 +5277,7 @@
    "Topic": "Microsoft Exchange Server 2016",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5287,7 +5287,7 @@
    "Topic": "Microsoft Exchange Server 2017",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5297,7 +5297,7 @@
    "Topic": "Microsoft Internet Information Services 8.5",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5307,7 +5307,7 @@
    "Topic": "Microsoft Lync Server 2013",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5317,7 +5317,7 @@
    "Topic": "Microsoft Mobility and Device Fundamentals",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5327,7 +5327,7 @@
    "Topic": "Microsoft Mobility and Device Fundamentals",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5337,7 +5337,7 @@
    "Topic": "Microsoft SharePoint Server 2013",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5347,7 +5347,7 @@
    "Topic": "Microsoft SharePoint Server 2014",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5357,7 +5357,7 @@
    "Topic": "Microsoft SharePoint Server 2016",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5367,7 +5367,7 @@
    "Topic": "Microsoft Skype for Business",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5377,7 +5377,7 @@
    "Topic": "Microsoft System Center",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5387,7 +5387,7 @@
    "Topic": "Microsoft Windows 10",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5397,7 +5397,7 @@
    "Topic": "Microsoft Windows 11",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5407,7 +5407,7 @@
    "Topic": "Microsoft Windows 12",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5417,7 +5417,7 @@
    "Topic": "Microsoft Windows 13",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5427,7 +5427,7 @@
    "Topic": "Microsoft Windows 14",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5437,7 +5437,7 @@
    "Topic": "Microsoft Windows 15",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5447,7 +5447,7 @@
    "Topic": "Microsoft Windows 8",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5457,7 +5457,7 @@
    "Topic": "Microsoft Windows 9",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5467,7 +5467,7 @@
    "Topic": "Microsoft Windows Server 2012",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5477,7 +5477,7 @@
    "Topic": "Microsoft Windows Server 2013",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5487,7 +5487,7 @@
    "Topic": "Microsoft Windows Server 2014",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5497,7 +5497,7 @@
    "Topic": "Microsoft Windows Server 2015",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5507,7 +5507,7 @@
    "Topic": "Microsoft Windows Server 2016",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5517,7 +5517,7 @@
    "Topic": "Microsoft Windows Server 2016",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5527,7 +5527,7 @@
    "Topic": "Microsoft Windows Server 2017",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5537,7 +5537,7 @@
    "Topic": "Microsoft Windows Server 2018",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5547,7 +5547,7 @@
    "Topic": "Microsoft Windows Server 2019",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5557,7 +5557,7 @@
    "Topic": "Microsoft Windows Server 2020",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5567,7 +5567,7 @@
    "Topic": "Office 365",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5577,7 +5577,7 @@
    "Topic": "Office 366",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5587,7 +5587,7 @@
    "Topic": "Software Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5597,7 +5597,7 @@
    "Topic": "Test Preps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5607,7 +5607,7 @@
    "Topic": "Ubuntu",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5617,7 +5617,7 @@
    "Topic": "UNIX Essentials",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5627,7 +5627,7 @@
    "Topic": "Windows Performance Monitoring",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5637,7 +5637,7 @@
    "Topic": "Windows PowerShell",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5647,7 +5647,7 @@
    "Topic": "Windows PowerShell",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5657,7 +5657,7 @@
    "Topic": "Windows PowerShell",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5667,7 +5667,7 @@
    "Topic": "Windows PowerShell",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5677,7 +5677,7 @@
    "Topic": "Windows PowerShell",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5687,7 +5687,7 @@
    "Topic": "Windows PowerShell",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5697,7 +5697,7 @@
    "Topic": "Communications (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5707,7 +5707,7 @@
    "Topic": "Communications (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5717,7 +5717,7 @@
    "Topic": "CompTIA Project+ PK0-004",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5727,7 +5727,7 @@
    "Topic": "CompTIA Project+ PK0-005",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5737,7 +5737,7 @@
    "Topic": "CompTIA Project+ PK0-006",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5747,7 +5747,7 @@
    "Topic": "CompTIA Project+ PK0-007",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5757,7 +5757,7 @@
    "Topic": "CompTIA Project+ PK0-008",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5767,7 +5767,7 @@
    "Topic": "CompTIA Project+ PK0-009",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5777,7 +5777,7 @@
    "Topic": "CompTIA Project+ PK0-010",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5787,7 +5787,7 @@
    "Topic": "CompTIA Project+ PK0-011",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5797,7 +5797,7 @@
    "Topic": "CompTIA Project+ PK0-012",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5807,7 +5807,7 @@
    "Topic": "CompTIA Project+ PK0-013",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5817,7 +5817,7 @@
    "Topic": "Mentoring Assets",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5827,7 +5827,7 @@
    "Topic": "Mentoring Assets",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5837,7 +5837,7 @@
    "Topic": "Mentoring Assets",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5847,7 +5847,7 @@
    "Topic": "Mentoring Assets",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5857,7 +5857,7 @@
    "Topic": "Mentoring Assets",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5867,7 +5867,7 @@
    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)�",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5877,7 +5877,7 @@
    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)�",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5887,7 +5887,7 @@
    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)�",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5897,7 +5897,7 @@
    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)�",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5907,7 +5907,7 @@
    "Topic": "PMI Agile Certified Practitioner (PMI-ACP)�",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5917,7 +5917,7 @@
    "Topic": "PRINCE2� - Foundation (2017 Update)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5927,7 +5927,7 @@
    "Topic": "PRINCE2� - Foundation (2017 Update)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5937,7 +5937,7 @@
    "Topic": "PRINCE2� - Foundation (2017 Update)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5947,7 +5947,7 @@
    "Topic": "PRINCE2� - Foundation (2017 Update)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5957,7 +5957,7 @@
    "Topic": "PRINCE2� - Foundation (2017 Update)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5967,7 +5967,7 @@
    "Topic": "PRINCE2� - Foundation (2017 Update)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5977,7 +5977,7 @@
    "Topic": "Project Cost (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5987,7 +5987,7 @@
    "Topic": "Project Cost (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -5997,7 +5997,7 @@
    "Topic": "Project Integration (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6007,7 +6007,7 @@
    "Topic": "Project Integration (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6017,7 +6017,7 @@
    "Topic": "Project Integration (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6027,7 +6027,7 @@
    "Topic": "Project Integration (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6037,7 +6037,7 @@
    "Topic": "Project Integration (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6047,7 +6047,7 @@
    "Topic": "Project Management (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6057,7 +6057,7 @@
    "Topic": "Project Management (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6067,7 +6067,7 @@
    "Topic": "Project Management (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6077,7 +6077,7 @@
    "Topic": "Project Management Ethics and Values",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6087,7 +6087,7 @@
    "Topic": "Project Management Ethics and Values",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6097,7 +6097,7 @@
    "Topic": "Project Management for All",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6107,7 +6107,7 @@
    "Topic": "Project Management for All",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6117,7 +6117,7 @@
    "Topic": "Project Management for All",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6127,7 +6127,7 @@
    "Topic": "Project Management for All",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6137,7 +6137,7 @@
    "Topic": "Project Management for All",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6147,7 +6147,7 @@
    "Topic": "Project Management for All",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6157,7 +6157,7 @@
    "Topic": "Project Procurement (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6167,7 +6167,7 @@
    "Topic": "Project Procurement (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6177,7 +6177,7 @@
    "Topic": "Project Quality (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6187,7 +6187,7 @@
    "Topic": "Project Quality (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6197,7 +6197,7 @@
    "Topic": "Project Quality (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6207,7 +6207,7 @@
    "Topic": "Project Risk (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6217,7 +6217,7 @@
    "Topic": "Project Risk (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6227,7 +6227,7 @@
    "Topic": "Project Risk (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6237,7 +6237,7 @@
    "Topic": "Project Risk (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6247,7 +6247,7 @@
    "Topic": "Project Schedule (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6257,7 +6257,7 @@
    "Topic": "Project Schedule (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6267,7 +6267,7 @@
    "Topic": "Project Schedule (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6277,7 +6277,7 @@
    "Topic": "Project Scope (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6287,7 +6287,7 @@
    "Topic": "Project Scope (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6297,7 +6297,7 @@
    "Topic": "Project Scope (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6307,7 +6307,7 @@
    "Topic": "Project Stakeholders (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6317,7 +6317,7 @@
    "Topic": "Project Stakeholders (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6327,7 +6327,7 @@
    "Topic": "Resource Management (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6337,7 +6337,7 @@
    "Topic": "Resource Management (PMBOK� Guide Sixth Edition)",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6347,7 +6347,7 @@
    "Topic": "Test Preps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6357,7 +6357,7 @@
    "Topic": "Test Preps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6367,7 +6367,7 @@
    "Topic": "Algorithms",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6377,7 +6377,7 @@
    "Topic": "Apache",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6387,7 +6387,7 @@
    "Topic": "Configuration Management",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6397,7 +6397,7 @@
    "Topic": "Configuration Management",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6407,7 +6407,7 @@
    "Topic": "Defensive Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6417,7 +6417,7 @@
    "Topic": "Defensive Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6427,7 +6427,7 @@
    "Topic": "Defensive Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6437,7 +6437,7 @@
    "Topic": "Defensive Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6447,7 +6447,7 @@
    "Topic": "Defensive Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6457,7 +6457,7 @@
    "Topic": "Defensive Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6467,7 +6467,7 @@
    "Topic": "Digital Assistant Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6477,7 +6477,7 @@
    "Topic": "Eclipse",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6487,7 +6487,7 @@
    "Topic": "Full Stack Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6497,7 +6497,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6507,7 +6507,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6517,7 +6517,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6527,7 +6527,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6537,7 +6537,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6547,7 +6547,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6557,7 +6557,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6567,7 +6567,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6577,7 +6577,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6587,7 +6587,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6597,7 +6597,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6607,7 +6607,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6617,7 +6617,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6627,7 +6627,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6637,7 +6637,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6647,7 +6647,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6657,7 +6657,7 @@
    "Topic": "Generic Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6667,7 +6667,7 @@
    "Topic": "Go",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6677,7 +6677,7 @@
    "Topic": "IoT Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6687,7 +6687,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6697,7 +6697,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6707,7 +6707,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6717,7 +6717,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6727,7 +6727,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6737,7 +6737,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6747,7 +6747,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6757,7 +6757,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6767,7 +6767,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6777,7 +6777,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6787,7 +6787,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6797,7 +6797,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6807,7 +6807,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6817,7 +6817,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6827,7 +6827,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6837,7 +6837,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6847,7 +6847,7 @@
    "Topic": "Java 2 Programming",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6857,7 +6857,7 @@
    "Topic": "Java EE7",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6867,7 +6867,7 @@
    "Topic": "Java EE8",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6877,7 +6877,7 @@
    "Topic": "Mentoring Assets",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6887,7 +6887,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6897,7 +6897,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6907,7 +6907,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6917,7 +6917,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6927,7 +6927,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6937,7 +6937,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6947,7 +6947,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6957,7 +6957,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6967,7 +6967,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6977,7 +6977,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6987,7 +6987,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -6997,7 +6997,7 @@
    "Topic": "Microsoft .NET Software Development Tools",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7007,7 +7007,7 @@
    "Topic": "Microsoft C#",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7017,7 +7017,7 @@
    "Topic": "Microsoft Enterprise Library",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7027,7 +7027,7 @@
    "Topic": "Microsoft LINQ",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7037,7 +7037,7 @@
    "Topic": "Microsoft ORM",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7047,7 +7047,7 @@
    "Topic": "Microsoft ORM",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7057,7 +7057,7 @@
    "Topic": "Microsoft Web Applications",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7067,7 +7067,7 @@
    "Topic": "Microsoft Web Applications",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7077,7 +7077,7 @@
    "Topic": "Microsoft Web Applications",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7087,7 +7087,7 @@
    "Topic": "Microsoft Web Applications",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7097,7 +7097,7 @@
    "Topic": "Microsoft Web Applications",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7107,7 +7107,7 @@
    "Topic": "Microsoft Windows Store Apps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7117,7 +7117,7 @@
    "Topic": "Microsoft Windows Store Apps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7127,7 +7127,7 @@
    "Topic": "Microsoft Windows Store Apps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7137,7 +7137,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7147,7 +7147,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7157,7 +7157,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7167,7 +7167,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7177,7 +7177,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7187,7 +7187,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7197,7 +7197,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7207,7 +7207,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7217,7 +7217,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7227,7 +7227,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7237,7 +7237,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7247,7 +7247,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7257,7 +7257,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7267,7 +7267,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7277,7 +7277,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7287,7 +7287,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7297,7 +7297,7 @@
    "Topic": "Mobile Application Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7307,7 +7307,7 @@
    "Topic": "Programming Best Practices",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7317,7 +7317,7 @@
    "Topic": "Programming Best Practices",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7327,7 +7327,7 @@
    "Topic": "Software Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7337,7 +7337,7 @@
    "Topic": "Software Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7347,7 +7347,7 @@
    "Topic": "Software Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7357,7 +7357,7 @@
    "Topic": "Software Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7367,7 +7367,7 @@
    "Topic": "Software Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7377,7 +7377,7 @@
    "Topic": "Software Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7387,7 +7387,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7397,7 +7397,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7407,7 +7407,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7417,7 +7417,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7427,7 +7427,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7437,7 +7437,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7447,7 +7447,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7457,7 +7457,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7467,7 +7467,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7477,7 +7477,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7487,7 +7487,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7497,7 +7497,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7507,7 +7507,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7517,7 +7517,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7527,7 +7527,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7537,7 +7537,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7547,7 +7547,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7557,7 +7557,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7567,7 +7567,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7577,7 +7577,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7587,7 +7587,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7597,7 +7597,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7607,7 +7607,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7617,7 +7617,7 @@
    "Topic": "Software Development Principles",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7627,7 +7627,7 @@
    "Topic": "Software Requirements",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7637,7 +7637,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7647,7 +7647,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7657,7 +7657,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7667,7 +7667,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7677,7 +7677,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7687,7 +7687,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7697,7 +7697,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7707,7 +7707,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7717,7 +7717,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7727,7 +7727,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7737,7 +7737,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7747,7 +7747,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7757,7 +7757,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7767,7 +7767,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7777,7 +7777,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7787,7 +7787,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7797,7 +7797,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7807,7 +7807,7 @@
    "Topic": "Software Testing",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7817,7 +7817,7 @@
    "Topic": "Test Preps",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7827,7 +7827,7 @@
    "Topic": "Universal Windows Platform",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7837,7 +7837,7 @@
    "Topic": "Web Development Technologies",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7847,7 +7847,7 @@
    "Topic": "Web Development Technologies",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7857,7 +7857,7 @@
    "Topic": "Web Development Technologies",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7867,7 +7867,7 @@
    "Topic": "Web Development Technologies",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7877,7 +7877,7 @@
    "Topic": "Web Development Technologies",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7887,7 +7887,7 @@
    "Topic": "Windows Embedded",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7897,7 +7897,7 @@
    "Topic": "Virtual Collaboration",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7907,7 +7907,7 @@
    "Topic": "Virtual Collaboration",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7917,7 +7917,7 @@
    "Topic": "Adobe",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7927,7 +7927,7 @@
    "Topic": "Adobe",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7937,7 +7937,7 @@
    "Topic": "Adobe",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7947,7 +7947,7 @@
    "Topic": "Adobe",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7957,7 +7957,7 @@
    "Topic": "Adobe",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7967,7 +7967,7 @@
    "Topic": "Adobe",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7977,7 +7977,7 @@
    "Topic": "Adobe",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7987,7 +7987,7 @@
    "Topic": "Adobe",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -7997,7 +7997,7 @@
    "Topic": "Adobe",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8007,7 +8007,7 @@
    "Topic": "Adobe",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8017,7 +8017,7 @@
    "Topic": "Adobe",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8027,7 +8027,7 @@
    "Topic": "Content Management Systems",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8037,7 +8037,7 @@
    "Topic": "Content Management Systems",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8047,7 +8047,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8057,7 +8057,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8067,7 +8067,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8077,7 +8077,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8087,7 +8087,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8097,7 +8097,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8107,7 +8107,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8117,7 +8117,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8127,7 +8127,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8137,7 +8137,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8147,7 +8147,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8157,7 +8157,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8167,7 +8167,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8177,7 +8177,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8187,7 +8187,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8197,7 +8197,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8207,7 +8207,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8217,7 +8217,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8227,7 +8227,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8237,7 +8237,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8247,7 +8247,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8257,7 +8257,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8267,7 +8267,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8277,7 +8277,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8287,7 +8287,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8297,7 +8297,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8307,7 +8307,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8317,7 +8317,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8327,7 +8327,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8337,7 +8337,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8347,7 +8347,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8357,7 +8357,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8367,7 +8367,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8377,7 +8377,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8387,7 +8387,7 @@
    "Topic": "Scripting and Web Languages",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8397,7 +8397,7 @@
    "Topic": "Web Application Frameworks",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8407,7 +8407,7 @@
    "Topic": "Web Application Frameworks",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8417,7 +8417,7 @@
    "Topic": "Web Application Frameworks",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8427,7 +8427,7 @@
    "Topic": "Web Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8437,7 +8437,7 @@
    "Topic": "Web Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8447,7 +8447,7 @@
    "Topic": "Web Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8457,7 +8457,7 @@
    "Topic": "Web Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8467,7 +8467,7 @@
    "Topic": "Web Design",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8477,7 +8477,7 @@
    "Topic": "Web Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8487,7 +8487,7 @@
    "Topic": "Web Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8497,7 +8497,7 @@
    "Topic": "Web Development",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8507,7 +8507,7 @@
    "Topic": "Web Services",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8517,7 +8517,7 @@
    "Topic": "Web Services",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8527,7 +8527,7 @@
    "Topic": "Web Services",
    "ILT": "-",
    "LP": "-",
-   "SS": "YES",
+   "SS": " ✓ ",
    "CLP": "-"
  },
  {
@@ -8538,7 +8538,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8548,7 +8548,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8558,7 +8558,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8568,7 +8568,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8578,7 +8578,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8588,7 +8588,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8598,7 +8598,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8608,7 +8608,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8618,7 +8618,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8628,7 +8628,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8638,7 +8638,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8648,7 +8648,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8658,7 +8658,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8668,7 +8668,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8678,7 +8678,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8688,7 +8688,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8698,7 +8698,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8708,7 +8708,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8718,7 +8718,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8728,7 +8728,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8738,7 +8738,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8748,7 +8748,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8758,7 +8758,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8768,7 +8768,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8778,7 +8778,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8788,7 +8788,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8798,7 +8798,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8808,7 +8808,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8818,7 +8818,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8828,7 +8828,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8838,7 +8838,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8848,7 +8848,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8858,7 +8858,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8868,7 +8868,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8878,7 +8878,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8888,7 +8888,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8898,7 +8898,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8908,7 +8908,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8918,7 +8918,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8928,7 +8928,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8938,7 +8938,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8948,7 +8948,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8958,7 +8958,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8968,7 +8968,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8978,7 +8978,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8988,7 +8988,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -8998,7 +8998,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  },
  {
    "GK Code": "NA",
@@ -9008,7 +9008,7 @@
    "ILT": "-",
    "LP": "-",
    "SS": "-",
-   "CLP": "YES"
+   "CLP": " ✓ "
  }
 ]
 }
