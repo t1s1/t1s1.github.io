@@ -49,8 +49,8 @@
         initComplete: function() {
           // set up filtering
           $(".filterhead").each( function ( i ) {
-            // only certain columns
-            if(i !== 1 && i !== 4) {
+            // only certain columns - exclude course name and code from filter ability
+            if(i !== 1 && i !== 7) {
               var select = $('<select><option value="">Filter</option></select>')
                 .appendTo( $(this).empty() )
                 .on( 'change', function () {
@@ -95,10 +95,10 @@
           <th>Product Line</th>
           <th>Course Name</th>
           <th>Topic</th>
-          <th>Classroom & Virtual</th>
-          <th>Standard On-Demand</th>
-          <th>Office Productivty</th>
-          <th>Enhanced On-Demand</th>
+          <th<img src="img/.png" alt="Classroom & Virtual"height="24" width="24"></th>
+          <th<img src="img/.png" alt="Standard On-Demand" height="24" width="24"></th>
+          <th<img src="img/.png" alt="Office Productivty" height="24" width="24"></th>
+          <th<img src="img/.png" alt="Enhanced On-Demand" height="24" width="24"></th>
           <th>Code</th>
         </tr>
       </thead>
