@@ -3,7 +3,7 @@
  {
    "GK Code": "503",
    "Course Name": "Effective Stakeholder Communication",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -13,7 +13,7 @@
  {
    "GK Code": "1642",
    "Course Name": "SSCP Certification Prep Course",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Security",
    "ILT": "YES",
    "LP": "-",
@@ -23,7 +23,7 @@
  {
    "GK Code": "2014",
    "Course Name": "Cloud Service Manager",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Cloud",
    "ILT": "YES",
    "LP": "-",
@@ -33,7 +33,7 @@
  {
    "GK Code": "2017",
    "Course Name": "Cloud Security Manager",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Cloud",
    "ILT": "YES",
    "LP": "-",
@@ -43,7 +43,7 @@
  {
    "GK Code": "2020",
    "Course Name": "Cloud Technology Associate",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Cloud",
    "ILT": "YES",
    "LP": "-",
@@ -53,7 +53,7 @@
  {
    "GK Code": "2112",
    "Course Name": "Cloud Solutions Architect",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Cloud",
    "ILT": "YES",
    "LP": "-",
@@ -63,7 +63,7 @@
  {
    "GK Code": "2180",
    "Course Name": "CyberSec First Responder: Threat Detection and Response",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Security",
    "ILT": "YES",
    "LP": "-",
@@ -73,7 +73,7 @@
  {
    "GK Code": "2362",
    "Course Name": "Modern Web Development",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "YES",
    "LP": "-",
@@ -83,7 +83,7 @@
  {
    "GK Code": "2364",
    "Course Name": "CCSP Certification Prep Course",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Security",
    "ILT": "YES",
    "LP": "-",
@@ -93,7 +93,7 @@
  {
    "GK Code": "2387",
    "Course Name": "Project Management Professional (PMP) Exam Prep Boot Camp",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -103,7 +103,7 @@
  {
    "GK Code": "2413",
    "Course Name": "TOGAF for Practioners - Level 1 & 2",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Business Architecture",
    "ILT": "YES",
    "LP": "-",
@@ -113,7 +113,7 @@
  {
    "GK Code": "2505",
    "Course Name": "Agile for Development and Operations Teams",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -123,7 +123,7 @@
  {
    "GK Code": "2644",
    "Course Name": "Negotiation Skills for Project Managers",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -133,7 +133,7 @@
  {
    "GK Code": "2653",
    "Course Name": "Leading Complex Projects",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -143,7 +143,7 @@
  {
    "GK Code": "2657",
    "Course Name": "Effective Facilitation for Business Analysts",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Business Analysis",
    "ILT": "YES",
    "LP": "-",
@@ -153,7 +153,7 @@
  {
    "GK Code": "2658",
    "Course Name": "Project Management, Leadership, and Communication",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -163,7 +163,7 @@
  {
    "GK Code": "2809",
    "Course Name": "Schedule and Cost Control",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -173,7 +173,7 @@
  {
    "GK Code": "2811",
    "Course Name": "Risk Management",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -183,7 +183,7 @@
  {
    "GK Code": "2813",
    "Course Name": "Program Management",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -193,7 +193,7 @@
  {
    "GK Code": "2816",
    "Course Name": "Project Troubleshooting and Recovery",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -203,7 +203,7 @@
  {
    "GK Code": "2817",
    "Course Name": "Project Portfolio Management",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -213,7 +213,7 @@
  {
    "GK Code": "2819",
    "Course Name": "IT Project Management",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management - IT",
    "ILT": "YES",
    "LP": "-",
@@ -223,7 +223,7 @@
  {
    "GK Code": "2845",
    "Course Name": "Earned Value Management",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -233,7 +233,7 @@
  {
    "GK Code": "2868",
    "Course Name": "Project Management Fundamentals",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -243,7 +243,7 @@
  {
    "GK Code": "2919",
    "Course Name": "Business Analysis Essentials",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Business Analysis",
    "ILT": "YES",
    "LP": "-",
@@ -253,7 +253,7 @@
  {
    "GK Code": "2964",
    "Course Name": "Requirements Development, Documentation and Management",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Business Analysis",
    "ILT": "YES",
    "LP": "-",
@@ -263,7 +263,7 @@
  {
    "GK Code": "3401",
    "Course Name": "Computer Hacking Forensic Investigator (CHFI) v9",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Security",
    "ILT": "YES",
    "LP": "-",
@@ -273,7 +273,7 @@
  {
    "GK Code": "3404",
    "Course Name": "CompTIA Security+ Certification Prep Course",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Security",
    "ILT": "YES",
    "LP": "-",
@@ -283,7 +283,7 @@
  {
    "GK Code": "3617",
    "Course Name": "Certified Ethical Hacker v10",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Security",
    "ILT": "YES",
    "LP": "-",
@@ -293,7 +293,7 @@
  {
    "GK Code": "4512",
    "Course Name": "Maximizing your Emotional Intelligence",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -303,7 +303,7 @@
  {
    "GK Code": "4513",
    "Course Name": "Leading High Performing Teams",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -313,7 +313,7 @@
  {
    "GK Code": "4519",
    "Course Name": "Leading Continuous Change",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -323,7 +323,7 @@
  {
    "GK Code": "4995",
    "Course Name": "ITIL Practitioner",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "ITIL",
    "ILT": "YES",
    "LP": "-",
@@ -333,7 +333,7 @@
  {
    "GK Code": "5056",
    "Course Name": "Business Writing Essentials",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -343,7 +343,7 @@
  {
    "GK Code": "5966",
    "Course Name": "Technical Communications Essentials",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -353,7 +353,7 @@
  {
    "GK Code": "6916",
    "Course Name": "Agile Scrum Foundation Certification",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "YES",
    "LP": "-",
@@ -363,7 +363,7 @@
  {
    "GK Code": "6943",
    "Course Name": "DevOps Foundation Certification",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "DevOps",
    "ILT": "YES",
    "LP": "-",
@@ -373,7 +373,7 @@
  {
    "GK Code": "6974",
    "Course Name": "Cybersecurity Specialization: Governance Risk and Compliance",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Security",
    "ILT": "YES",
    "LP": "-",
@@ -383,7 +383,7 @@
  {
    "GK Code": "7990",
    "Course Name": "The Power of Influence in the Workplace",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -393,7 +393,7 @@
  {
    "GK Code": "8623",
    "Course Name": "Coach.Coach.Coach. - Leading with Impact",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -403,7 +403,7 @@
  {
    "GK Code": "8947",
    "Course Name": "Communicating for Clarity",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -413,7 +413,7 @@
  {
    "GK Code": "8963",
    "Course Name": "Consulting Fundamentals (CO10)",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -423,7 +423,7 @@
  {
    "GK Code": "8964",
    "Course Name": "Analysis and Problem Solving for Consultants (CO20)",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -433,7 +433,7 @@
  {
    "GK Code": "8965",
    "Course Name": "Making Recommendations - Communications Skills for Consultants (CO30)",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -443,7 +443,7 @@
  {
    "GK Code": "8966",
    "Course Name": "Developing Client Relationships for Consultants (CO40)",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -453,7 +453,7 @@
  {
    "GK Code": "8991",
    "Course Name": "Managing Multiple Priorities",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "-",
@@ -463,7 +463,7 @@
  {
    "GK Code": "9803",
    "Course Name": "GK CISSP Certification Prep Course",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Security",
    "ILT": "YES",
    "LP": "-",
@@ -473,7 +473,7 @@
  {
    "GK Code": "9817",
    "Course Name": "CISM Prep Course",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Security",
    "ILT": "YES",
    "LP": "-",
@@ -483,7 +483,7 @@
  {
    "GK Code": "9879",
    "Course Name": "Troubleshooting TCP/IP Networks with Wireshark",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Networking",
    "ILT": "YES",
    "LP": "-",
@@ -493,7 +493,7 @@
  {
    "GK Code": "111111",
    "Course Name": "ITIL� 4 Foundation Bridge",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "ITIL",
    "ILT": "YES",
    "LP": "-",
@@ -503,7 +503,7 @@
  {
    "GK Code": "222222",
    "Course Name": "ITIL Foundation",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "ITIL",
    "ILT": "YES",
    "LP": "-",
@@ -533,7 +533,7 @@
  {
    "GK Code": "2506",
    "Course Name": "Introduction to Agile",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management",
    "ILT": "-",
    "LP": "YES",
@@ -553,7 +553,7 @@
  {
    "GK Code": "5165",
    "Course Name": "Getting Started with Python",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -563,7 +563,7 @@
  {
    "GK Code": "5193",
    "Course Name": "Getting Started with SQLAlchemy",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -573,7 +573,7 @@
  {
    "GK Code": "5194",
    "Course Name": "Debugging and Profiling",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -583,7 +583,7 @@
  {
    "GK Code": "5195",
    "Course Name": "Working with JSON data from Python",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -593,7 +593,7 @@
  {
    "GK Code": "5196",
    "Course Name": "Python Apps with SQLite",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -603,7 +603,7 @@
  {
    "GK Code": "5197",
    "Course Name": "Building a command-line (CLI) app with argparse",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -613,7 +613,7 @@
  {
    "GK Code": "5210",
    "Course Name": "Working with remote directories using os and Paramiko",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -623,7 +623,7 @@
  {
    "GK Code": "5213",
    "Course Name": "Pointers to Data and Functions in C",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -633,7 +633,7 @@
  {
    "GK Code": "5220",
    "Course Name": "Embedded C Memory Management",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -643,7 +643,7 @@
  {
    "GK Code": "5222",
    "Course Name": "Getting Started with C#",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -653,7 +653,7 @@
  {
    "GK Code": "5227",
    "Course Name": "Object Oriented Programming with C#",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -663,7 +663,7 @@
  {
    "GK Code": "5231",
    "Course Name": "Advanced Topics in C#",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -673,7 +673,7 @@
  {
    "GK Code": "5235",
    "Course Name": "LINQ in the C# Programming Language",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -683,7 +683,7 @@
  {
    "GK Code": "5238",
    "Course Name": "C++11 Core Language Enhancements",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -693,7 +693,7 @@
  {
    "GK Code": "5242",
    "Course Name": "Develop C++ Applications",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -703,7 +703,7 @@
  {
    "GK Code": "5243",
    "Course Name": "Patterns and Idioms in C++",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -713,7 +713,7 @@
  {
    "GK Code": "5245",
    "Course Name": "Getting Started with JavaScript",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -723,7 +723,7 @@
  {
    "GK Code": "5247",
    "Course Name": "Getting Started with TypeScript",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -733,7 +733,7 @@
  {
    "GK Code": "5255",
    "Course Name": "Getting Started with Git",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -743,7 +743,7 @@
  {
    "GK Code": "5257",
    "Course Name": "Getting Started with Entity Framework",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -753,7 +753,7 @@
  {
    "GK Code": "5260",
    "Course Name": "Source Control with TFS",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -763,7 +763,7 @@
  {
    "GK Code": "5270",
    "Course Name": "Testing Frameworks (Unittest)",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -773,7 +773,7 @@
  {
    "GK Code": "5280",
    "Course Name": "Consuming Services in .NET by Example",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -783,7 +783,7 @@
  {
    "GK Code": "5295",
    "Course Name": "Asynchronous Programming in C#",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -793,7 +793,7 @@
  {
    "GK Code": "5749",
    "Course Name": "Top 10 Python Language Concepts",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -803,7 +803,7 @@
  {
    "GK Code": "6725",
    "Course Name": "Introduction to Blockchain for Business",
-   "Product Line": "Non-Vendor IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Blockchain",
    "ILT": "-",
    "LP": "YES",
@@ -813,7 +813,7 @@
  {
    "GK Code": "6970",
    "Course Name": "Network Administrator Essentials",
-   "Product Line": "Non-Vendor IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Networking",
    "ILT": "-",
    "LP": "YES",
@@ -823,7 +823,7 @@
  {
    "GK Code": "7112",
    "Course Name": "Introduction to Programming",
-   "Product Line": "APPLICATION DEVELOPMENT",
+   "Product Line": "Application Development",
    "Topic": "Programming",
    "ILT": "-",
    "LP": "YES",
@@ -833,7 +833,7 @@
  {
    "GK Code": "2625",
    "Course Name": "DevOps Implementation Essentials",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "DevOps",
    "ILT": "YES",
    "LP": "YES",
@@ -843,7 +843,7 @@
  {
    "GK Code": "2923",
    "Course Name": "Agile Project Management",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Project Management - IT",
    "ILT": "YES",
    "LP": "YES",
@@ -863,7 +863,7 @@
  {
    "GK Code": "3150",
    "Course Name": "Understanding Networking Fundamentals",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Networking",
    "ILT": "YES",
    "LP": "YES",
@@ -873,7 +873,7 @@
  {
    "GK Code": "3291",
    "Course Name": "CompTIA Network+ Certification Prep (N10-007)",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Networking",
    "ILT": "YES",
    "LP": "YES",
@@ -883,7 +883,7 @@
  {
    "GK Code": "4666",
    "Course Name": "CompTIA A+ Certification Prep",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Networking",
    "ILT": "YES",
    "LP": "YES",
@@ -893,7 +893,7 @@
  {
    "GK Code": "7652",
    "Course Name": "The Business Analyst in an Agile Environment",
-   "Product Line": "BUSINESS TRAINING",
+   "Product Line": "Business Training",
    "Topic": "Business Analysis",
    "ILT": "YES",
    "LP": "YES",
@@ -903,7 +903,7 @@
  {
    "GK Code": "8944",
    "Course Name": "Active Leadership for IT Professionals",
-   "Product Line": "LEADERSHIP AND BUSINESS SOLUTIONS",
+   "Product Line": "Leadership And Business Solutions",
    "Topic": "LBS",
    "ILT": "YES",
    "LP": "YES",
@@ -913,7 +913,7 @@
  {
    "GK Code": "9025",
    "Course Name": "TCP/IP Networking",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Networking",
    "ILT": "YES",
    "LP": "YES",
@@ -923,7 +923,7 @@
  {
    "GK Code": "9701",
    "Course Name": "Cybersecurity Foundations",
-   "Product Line": "NON-VENDOR IT",
+   "Product Line": "Non-vendor IT",
    "Topic": "Security",
    "ILT": "YES",
    "LP": "YES",
