@@ -19,6 +19,7 @@
     th.filterhead.wide   { width: 30%;}
     th.filterhead.narrow { width: 6%;}
     td.checkmark {font-size: 1.5rem; color: #3bb04f;}
+    .format_name {display: none; font-size: 0.4em;}
   </style>
 
   <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
@@ -34,6 +35,8 @@
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.min.js"></script>
 
   <script type="text/javascript" class="init">
+    downloadTitle = "Global Knowledge All Access Courses"
+    
     $(document).ready(function() {
       // define course table when loaded
       var coursetable = $('#datatable').DataTable( {
@@ -52,10 +55,10 @@
           {"data": "GK Code"}
         ],
         buttons: [
-          {extend:'csv', title: 'Global Knowledge All-Access Courses'},
-          {extend:'excel', title: 'Global Knowledge All-Access Courses'},
-          {extend:'pdf', title: 'Global Knowledge All-Access Courses'},
-          {extend:'print', title: 'Global Knowledge All-Access Courses'}
+          {extend:'csv', title: downloadTitle},
+          {extend:'excel', title: downloadTitle},
+          {extend:'pdf', title: downloadTitle},
+          {extend:'print', title: downloadTitle}
         ],
         lengthChange: false,
         pageLength: 20,
@@ -109,10 +112,10 @@
           <th>Product Line</th>
           <th>Course Name</th>
           <th>Topic</th>
-          <th><img src="img/AllAccessLiveCatalog.png" title="Classroom & Virtual" height="24" width="24"><span style="display:none">Classroom & Virtual</span></th>
-          <th><img src="img/EnhancedOnDemand.png" title="Enhanced On-Demand" height="24" width="24"><span style="visibility:hidden">Enhanced On-Demand</span></th>
-          <th><img src="img/StandardOnDemand.png" title="Standard On-Demand" height="24" width="24"></th>
-          <th><img src="img/OfficeProductivityOnDemand.png" title="Office Productivity" height="24" width="24"></th>
+          <th><img src="img/AllAccessLiveCatalog.png" title="Classroom & Virtual" height="24" width="24"><span class="format_name">Classroom & Virtual</span></th>
+          <th><img src="img/EnhancedOnDemand.png" title="Enhanced On-Demand" height="24" width="24"><span sclass="format_name">Enhanced On-Demand</span></th>
+          <th><img src="img/StandardOnDemand.png" title="Standard On-Demand" height="24" width="24"><span class="format_name">Enhanced On-Demand</span></th>
+          <th><img src="img/OfficeProductivityOnDemand.png" title="Office Productivity" height="24" width="24"><span class="format_name">Enhanced On-Demand</span></th>
           <th>Code</th>
         </tr>
       </thead>
