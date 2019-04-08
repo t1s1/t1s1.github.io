@@ -9,11 +9,16 @@
   <link rel="stylesheet" type="text/css" href="https://www.globalknowledge.com/bundles/css">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css"/>
   <style type="text/css">
+  	#courselist_main {margin: 0 20px 20px 0}
+  	#reset {float: right; position: relative; top: 54px; z-index: 10;}
+  	#datatable_filter {float: left; text-align: left}
     #datatable_filter input {width: 320px;}
     #datatable {table-layout: fixed;}
+    tbody {font-size: .9375rem;}
     th.filterhead {font-size: 0.8em;}
     th.filterhead.wide   { width: 30%;}
     th.filterhead.narrow { width: 6%;}
+    td.checkmark {font-size: 1.5rem; color: #3bb04f;}
   </style>
 
   <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
@@ -32,17 +37,18 @@
     $(document).ready(function() {
       // define course table when loaded
       var coursetable = $('#datatable').DataTable( {
-        ajax: "../data/courselist.txt",
+        ajax: "./data/courselist.txt",
         dom: 'frtip<"clear">B', // lfrtip<"clear">B to include "show __ entries"
         autoWidth: false,
+
         columns: [
           {"data": "Product Line"},
           {"data": "Course Name"},
           {"data": "Topic"},
-          {"data": "ILT"},
-          {"data": "LP"},
-          {"data": "SS"},
-          {"data": "CLP"},
+          {"data": "ILT", className: "checkmark dt-center"},
+          {"data": "LP",  className: "checkmark dt-center"},
+          {"data": "SS",  className: "checkmark dt-center"},
+          {"data": "CLP", className: "checkmark dt-center"},
           {"data": "GK Code"}
         ],
         buttons: [
@@ -59,6 +65,7 @@
             // only certain columns - exclude course name and code from filter ability
             if(i !== 1 && i !== 7) {
               var select = $('<select><option value="">Filter</option></select>')
+                .addClass( "column_filter" )
                 .appendTo( $(this).empty() )
                 .on( 'change', function () {
                   var term = $(this).val();
@@ -84,9 +91,9 @@
 </head>
 
 <body>
-  <div style="margin: 100px">
-    <button id="reset" type="button">Reset</button>
-    <table id="datatable" class="table table-striped table-bordered">
+  <div id="courselist_main">
+    <button id="reset" type="button">Reset Filters</button>
+    <table id="datatable" class="table table-striped table-bordered compact">
       <thead>
         <tr>
           <th class="filterhead norm"></th>
@@ -102,10 +109,10 @@
           <th>Product Line</th>
           <th>Course Name</th>
           <th>Topic</th>
-          <th><img src="img/AllAccessLiveCatalog.png" title="Classroom & Virtual"height="24" width="24"></th>
+          <th><img src="img/AllAccessLiveCatalog.png" title="Classroom & Virtual" height="24" width="24"></th>
           <th><img src="img/EnhancedOnDemand.png" title="Enhanced On-Demand" height="24" width="24"></th>
-          <th><img src="img/OfficeProductivityOnDemand.png" title="Office Productivty" height="24" width="24"></th>
           <th><img src="img/StandardOnDemand.png" title="Standard On-Demand" height="24" width="24"></th>
+          <th><img src="img/OfficeProductivityOnDemand.png" title="Office Productivity" height="24" width="24"></th>
           <th>Code</th>
         </tr>
       </thead>
