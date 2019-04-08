@@ -55,9 +55,21 @@
           {"data": "GK Code"}
         ],
         buttons: [
-          {extend:'excel', title: downloadTitle},
-          {extend:'pdf', title: downloadTitle},
-          {extend:'print', title: downloadTitle}
+          {
+            extend:'excel',
+            title: downloadTitle
+          },
+          {
+            extend: 'pdf',
+            title: downloadTitle,
+            customize: function ( doc ) {
+              doc.columns = [{width: '100%'}]
+            }
+          },
+          {
+            extend:'print', 
+            title: downloadTitle
+          }
         ],
         lengthChange: false,
         pageLength: 20,
