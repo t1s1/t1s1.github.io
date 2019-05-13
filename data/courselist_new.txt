@@ -1,0 +1,8211 @@
+{"data":[
+ {
+   "GK Code": "503",
+   "Course Name": "Effective Stakeholder Communication",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "1642",
+   "Course Name": "SSCP Certification Prep Course",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2014",
+   "Course Name": "Cloud Service Manager",
+   "Topic": "Cloud",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2017",
+   "Course Name": "Cloud Security Manager",
+   "Topic": "Cloud",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2020",
+   "Course Name": "Cloud Technology Associate",
+   "Topic": "Cloud",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2112",
+   "Course Name": "Cloud Solutions Architect",
+   "Topic": "Cloud",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2180",
+   "Course Name": "CyberSec First Responder: Threat Detection and Response",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2362",
+   "Course Name": "Modern Web Development",
+   "Topic": "Programming",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2364",
+   "Course Name": "CCSP Certification Prep Course",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2413",
+   "Course Name": "TOGAF for Practioners - Level 1 & 2",
+   "Topic": "Business Architecture",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2505",
+   "Course Name": "Agile for Development and Operations Teams",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2644",
+   "Course Name": "Negotiation Skills for Project Managers",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2653",
+   "Course Name": "Leading Complex Projects",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2657",
+   "Course Name": "Effective Facilitation for Business Analysts",
+   "Topic": "Business Analysis",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2658",
+   "Course Name": "Project Management, Leadership, and Communication",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2809",
+   "Course Name": "Schedule and Cost Control",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2811",
+   "Course Name": "Risk Management",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2813",
+   "Course Name": "Program Management",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2816",
+   "Course Name": "Project Troubleshooting and Recovery",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2817",
+   "Course Name": "Project Portfolio Management",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2845",
+   "Course Name": "Earned Value Management",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2919",
+   "Course Name": "Business Analysis Essentials",
+   "Topic": "Business Analysis",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2964",
+   "Course Name": "Requirements Development, Documentation and Management",
+   "Topic": "Business Analysis",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3401",
+   "Course Name": "Computer Hacking Forensic Investigator (CHFI) v9",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3404",
+   "Course Name": "CompTIA Security+ Certification Prep Course",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3617",
+   "Course Name": "Certified Ethical Hacker v10",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4512",
+   "Course Name": "Maximizing your Emotional Intelligence",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4513",
+   "Course Name": "Leading High Performing Teams",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4519",
+   "Course Name": "Leading Continuous Change",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4995",
+   "Course Name": "ITIL Practitioner",
+   "Topic": "ITIL",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5056",
+   "Course Name": "Business Writing Essentials",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5966",
+   "Course Name": "Technical Communications Essentials",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6916",
+   "Course Name": "Agile Scrum Foundation Certification",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6943",
+   "Course Name": "DevOps Foundation Certification",
+   "Topic": "DevOps",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6974",
+   "Course Name": "Cybersecurity Specialization: Governance Risk and Compliance",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "7253",
+   "Course Name": "VMware Horizon 7: Install, Configure, Manage [V7.3]",
+   "Topic": "VMware",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "7990",
+   "Course Name": "The Power of Influence in the Workplace",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "8623",
+   "Course Name": "Coach.Coach.Coach. - Leading with Impact",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "8947",
+   "Course Name": "Communicating for Clarity",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "8963",
+   "Course Name": "Consulting Fundamentals (CO10)",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "8964",
+   "Course Name": "Analysis and Problem Solving for Consultants (CO20)",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "8965",
+   "Course Name": "Making Recommendations - Communications Skills for Consultants (CO30)",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "8966",
+   "Course Name": "Developing Client Relationships for Consultants (CO40)",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "8991",
+   "Course Name": "Managing Multiple Priorities",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9803",
+   "Course Name": "GK CISSP Certification Prep Course",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9817",
+   "Course Name": "CISM Prep Course",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9879",
+   "Course Name": "Troubleshooting TCP/IP Networks with Wireshark",
+   "Topic": "Networking",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9888",
+   "Course Name": "VMware vSphere: Install, Configure, Manage [V6.7]",
+   "Topic": "vSphere",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "111111",
+   "Course Name": "ITIL® 4 Foundation Bridge",
+   "Topic": "ITIL",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "222222",
+   "Course Name": "ITIL 4 Foundation",
+   "Topic": "ITIL",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2506",
+   "Course Name": "Introduction to Agile",
+   "Topic": "Project Management",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4277",
+   "Course Name": "Introduction to Cybersecurity",
+   "Topic": "Security",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5165",
+   "Course Name": "Getting Started with Python",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5193",
+   "Course Name": "Getting Started with SQLAlchemy",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5194",
+   "Course Name": "Debugging and Profiling",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5195",
+   "Course Name": "Working with JSON data from Python",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5196",
+   "Course Name": "Python Apps with SQLite",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5197",
+   "Course Name": "Building a command-line (CLI) app with argparse",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5210",
+   "Course Name": "Working with remote directories using os and Paramiko",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5213",
+   "Course Name": "Pointers to Data and Functions in C",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5220",
+   "Course Name": "Embedded C Memory Management",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5222",
+   "Course Name": "Getting Started with C#",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5227",
+   "Course Name": "Object Oriented Programming with C#",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5231",
+   "Course Name": "Advanced Topics in C#",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5235",
+   "Course Name": "LINQ in the C# Programming Language",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5238",
+   "Course Name": "C++11 Core Language Enhancements",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5242",
+   "Course Name": "Develop C++ Applications",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5243",
+   "Course Name": "Patterns and Idioms in C++",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5245",
+   "Course Name": "Getting Started with JavaScript",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5247",
+   "Course Name": "Getting Started with TypeScript",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5255",
+   "Course Name": "Getting Started with Git",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5257",
+   "Course Name": "Getting Started with Entity Framework",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5260",
+   "Course Name": "Source Control with TFS",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5270",
+   "Course Name": "Testing Frameworks (Unittest)",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5280",
+   "Course Name": "Consuming Services in .NET by Example",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5295",
+   "Course Name": "Asynchronous Programming in C#",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5749",
+   "Course Name": "Top 10 Python Language Concepts",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6725",
+   "Course Name": "Introduction to Blockchain for Business",
+   "Topic": "Blockchain",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6970",
+   "Course Name": "Network Administrator Essentials",
+   "Topic": "Networking",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "7112",
+   "Course Name": "Introduction to Programming",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2387",
+   "Course Name": "Project Management Professional (PMP) Exam Prep Boot Camp",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2625",
+   "Course Name": "DevOps Implementation Essentials",
+   "Topic": "DevOps",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2819",
+   "Course Name": "IT Project Management",
+   "Topic": "Project Management - IT",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2868",
+   "Course Name": "Project Management Fundamentals",
+   "Topic": "Project Management",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "2923",
+   "Course Name": "Agile Project Management",
+   "Topic": "Project Management - IT",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3143",
+   "Course Name": "CompTIA IT Fundamentals",
+   "Topic": "Networking",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3150",
+   "Course Name": "Understanding Networking Fundamentals",
+   "Topic": "Networking",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3291",
+   "Course Name": "CompTIA Network+ Certification Prep (N10-007)",
+   "Topic": "Networking",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4666",
+   "Course Name": "CompTIA A+ Certification Prep",
+   "Topic": "Networking",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "7652",
+   "Course Name": "The Business Analyst in an Agile Environment",
+   "Topic": "Business Analysis",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "8944",
+   "Course Name": "Active Leadership for IT Professionals",
+   "Topic": "LBS",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9025",
+   "Course Name": "TCP/IP Networking",
+   "Topic": "Networking",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9701",
+   "Course Name": "Cybersecurity Foundations",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6972",
+   "Course Name": "Cybersecurity Specialization: Architecture and Policy",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "1417",
+   "Course Name": "Virtualizing Enterprise Desktops and Apps (M20694)",
+   "Topic": "Windows Client",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "1833",
+   "Course Name": "SQL Server Performance Tuning and Optimization (M55144)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4988",
+   "Course Name": "Deploying Voice Workloads for Skype for Business Online and Server 2015 (M40409)",
+   "Topic": "Unified Communications",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5741",
+   "Course Name": "SharePoint 2016 Site Collections and Site Owner Administration  (M55234)",
+   "Topic": "Sharepoint",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "5938",
+   "Course Name": "Installing, Configuring, and Maintaining Windows 10",
+   "Topic": "Windows Client",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6127",
+   "Course Name": "Managing Windows Environments with Group Policy (M50255)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6185",
+   "Course Name": "Configuring, Managing, and Troubleshooting Microsoft Exchange Server 2010 Service Pack 2",
+   "Topic": "Exchange",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6214",
+   "Course Name": "Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack (M20537)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6222",
+   "Course Name": "MOC - Analyzing Big Data with Microsoft R (M20773)",
+   "Topic": "Software Development Principles",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6282",
+   "Course Name": "Programming with C# using Microsoft Visual Studio 2010 (M10266)",
+   "Topic": ".NET",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6283",
+   "Course Name": "Programming in Visual  Basic with Microsoft Visual Studio 2010 (M10550)",
+   "Topic": ".NET",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6397",
+   "Course Name": "Developing ASP.NET 4 MVC Web Applications (M20486)",
+   "Topic": ".NET",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6403",
+   "Course Name": "Designing Solutions for Microsoft SQL Server 2014 (M20465)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6408",
+   "Course Name": "Designing Business Intelligence Solutions with Microsoft SQL Server 2014 (M20467)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6414",
+   "Course Name": "Implementing an Advanced Server Infrastructure (M20414)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6453",
+   "Course Name": "System Center 2012 Orchestrator (M55007)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6463",
+   "Course Name": "M55033 SharePoint 2013 Site Collection and Site Administration",
+   "Topic": "Sharepoint",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6544",
+   "Course Name": "Windows PowerShell Scripting and Toolmaking",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6557",
+   "Course Name": "Implementing Data Models and Reports with Microsoft SQL Server 2014 (M20466)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6729",
+   "Course Name": "Microsoft Dynamics 365 Customization and Configuration (M55242)",
+   "Topic": "CRM",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6731",
+   "Course Name": "Microsoft Dynamics 365 for Customer Service",
+   "Topic": "CRM",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6732",
+   "Course Name": "Microsoft Dynamics 365 for Sales",
+   "Topic": "CRM",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "7701",
+   "Course Name": "Microsoft Cloud Workshop: Container and DevOps",
+   "Topic": "Cloud",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "8307",
+   "Course Name": "Big Data and Visualization Microsoft Cloud Workshop (M40502)",
+   "Topic": "Software Development Principles",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "8318",
+   "Course Name": "Microsoft Cloud Workshop - Enterprise Class Networking",
+   "Topic": "Cloud",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9885",
+   "Course Name": "Designing and Implementing Cloud Data Platform Solutions (M55247)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9910",
+   "Course Name": "Performing Big Data Engineering on Microsoft Cloud Services (M20776)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100100",
+   "Course Name": "Microsoft Azure Infrastructure and Deployment Track (AZ-100)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100101",
+   "Course Name": "Microsoft Azure Integration and Security Track (AZ-101)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100103",
+   "Course Name": "Microsoft Azure Solutions Architect Technologies Track (AZ-300)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100104",
+   "Course Name": "Microsoft Azure Solutions Architect Design Track (AZ-301)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100105",
+   "Course Name": "Microsoft 365 Identity and Services (MS-100)",
+   "Topic": "Office",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100106",
+   "Course Name": "Microsoft 365 Mobility and Security (MS-101)",
+   "Topic": "Office",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100106",
+   "Course Name": "MOC -  Microsoft 365 Mobility and Security Track (MS-101)",
+   "Topic": "Office",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100107",
+   "Course Name": "Microsoft Azure Developer Core Solutions Track (AZ-200)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100194",
+   "Course Name": "Microsoft Azure Administrator Certification Transition (AZ-102)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100203",
+   "Course Name": "Microsoft TEAMS",
+   "Topic": "MS Applications",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100204",
+   "Course Name": "Implementing Microsoft Azure Cosmos DB Solutions (M20777)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100226",
+   "Course Name": "Managing Modern Desktops (MD-101)",
+   "Topic": "Windows Client",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100227",
+   "Course Name": "Planning and Configuring a Messaging Platform (MS-200)",
+   "Topic": "Unified Communications",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100228",
+   "Course Name": "Implementing a Hybrid and Secure Messaging Platform (MS-201)",
+   "Topic": "Unified Communications",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100229",
+   "Course Name": "Deploying Microsoft 365 Teamwork (MS-300)",
+   "Topic": "Unified Communications",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100230",
+   "Course Name": "Deploying SharePoint Server Hybrid (MS-301)",
+   "Topic": "Sharepoint",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100231",
+   "Course Name": "Microsoft 365 Security Administrator (MS-500)",
+   "Topic": "Security",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100235",
+   "Course Name": "Microsoft Azure DevOps Solutions (AZ-400)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100251",
+   "Course Name": "Microsoft Azure Fundamentals (AZ-900T01)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100326",
+   "Course Name": "Designing and Implementing an Azure AI Solution (AI-100T01)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100335",
+   "Course Name": "Azure Administrator (AZ-103)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100365",
+   "Course Name": "Microsoft Azure DevOps Solutions - Part 2 (AZ-400)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": "",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3989",
+   "Course Name": "Fundamentals of a Windows Server Infrastructure (M10967)",
+   "Topic": "Server",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4420",
+   "Course Name": "Performance, Tuning, and Optimizing SQL Databases (M10987)",
+   "Topic": "SQL",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4425",
+   "Course Name": "Managing SQL Business Intelligence Operations (M10988)",
+   "Topic": "SQL",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4662",
+   "Course Name": "Windows Server 2016 First Look Clinic (M40389)",
+   "Topic": "Server",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4678",
+   "Course Name": "MOOC - Speech Recognition Systems - DEV287x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4679",
+   "Course Name": "MOOC - Natural Language Processing (NLP) - DEV288x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4680",
+   "Course Name": "Computer Vision and Image Analysis",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4681",
+   "Course Name": "MOOC - DevOps Practices and Principles - DEVOPS200.1x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4682",
+   "Course Name": "MOOC - Configuration Management for Containerized Delivery - DEVOPS200.4x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4683",
+   "Course Name": "MOOC - DevOps Testing - DEVOPS200.5x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4684",
+   "Course Name": "MOOC - DevOps for Databases - DEVOPS200.6x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4685",
+   "Course Name": "MOOC - Application Monitoring and Feedback Loops - DEVOPS200.7x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4886",
+   "Course Name": "MOOC - Infrastructure as Code - DEVOPS200.2x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4887",
+   "Course Name": "MOOC - Continuous Integration and Continuous Deployment - DEVOPS200.3x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4923",
+   "Course Name": "MOOC - Introduction to Artificial Intelligence-DAT263x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4985",
+   "Course Name": "Installing and Configuring Windows 10 (M20698)",
+   "Topic": "Windows Client",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6023",
+   "Course Name": "Docker on Azure",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6413",
+   "Course Name": "Designing and Implementing a Server Infrastructure (M20413)",
+   "Topic": "Server",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6417",
+   "Course Name": "Upgrading Your Skills to MCSA Windows Server 2012",
+   "Topic": "Server",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6432",
+   "Course Name": "Core Solutions of Microsoft Exchange Server 2013 (M20341)",
+   "Topic": "Exchange",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6433",
+   "Course Name": "Advanced Solutions of Microsoft Exchange Server 2013 (M20342)",
+   "Topic": "Exchange",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6448",
+   "Course Name": "Advanced Solutions of Microsoft SharePoint Server 2013 (M20332)",
+   "Topic": "Sharepoint",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6449",
+   "Course Name": "Developing Microsoft SharePoint Server 2013 Core Solutions (M20488)",
+   "Topic": "Sharepoint",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6730",
+   "Course Name": "MOOC - Introduction to Data Science - DAT101x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6733",
+   "Course Name": "MOOC - Querying Data with Transact-SQL - DAT201x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6734",
+   "Course Name": "MOOC  - Implementing Predictive Analytics with Spark in Azure HDInsight - DAT202.3x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6738",
+   "Course Name": "MOOC - Introduction to R for Data Science - DAT204x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6819",
+   "Course Name": "MOOC - Analyzing and Visualizing Data with Excel - DAT206x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6841",
+   "Course Name": "MOOC - Analyzing and Visualizing Data with Power BI - DAT207x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6842",
+   "Course Name": "MOOC - Introduction to Python for Data Science - DAT208x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6844",
+   "Course Name": "MOOC - Programming with Python for Data Science - DAT210x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6887",
+   "Course Name": "MOOC - Delivering a Data Warehouse in the Cloud - DAT220x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6889",
+   "Course Name": "MOOC - Processing Big Data with Azure Data Lake Analytics - DAT223.1x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6890",
+   "Course Name": "MOOC - Processing Real-Time Data Streams in Azure - DAT223.2x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6892",
+   "Course Name": "MOOC - Orchestrating Big Data with Azure Data Factory - DAT223.3x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6893",
+   "Course Name": "MOOC - Introduction to Big Data - DAT229x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6894",
+   "Course Name": "Deep Learning Explained",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6895",
+   "Course Name": "MOOC - Ethics and Law in Data and Analytics - DAT249x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6897",
+   "Course Name": "MOOC - Essential Mathematics for Artificial Intelligence - DAT256x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6945",
+   "Course Name": "MOOC  - Analyzing Big Data with Microsoft R - DAT213x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6978",
+   "Course Name": "MOOC - Essential Statistics for Data Analysis using Excel - DAT222x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6979",
+   "Course Name": "MOOC - Reinforcement Learning Explained - DAT257x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9000",
+   "Course Name": "MOOC - Microsoft Azure for AWS Experts - Axure213x",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9660",
+   "Course Name": "Cloud Computing Fundamentals (OD99994)",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9661",
+   "Course Name": "First Look Clinic-Microsoft Azure (OD99995)",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9703",
+   "Course Name": "MOOC - Introduction to NoSQL Data Solutions - DAT221x",
+   "Topic": "SQL",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9722",
+   "Course Name": "MOOC - Developing IoT Solutions with Azure IoT - DEV225x",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9728",
+   "Course Name": "MOOC - Developing Big Data Solutions with Azure Machine Learning - DAT228x",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "9750",
+   "Course Name": "MOOC - Building Your Azure Skills Toolkit - DEV224x",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10002",
+   "Course Name": "MOOC - IT Support: Fundamentals - CLD251x",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10003",
+   "Course Name": "MOOC - IT Support: Communication - CLD252x",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10005",
+   "Course Name": "MOOC - IT Support: Documentation - CLD254x",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10009",
+   "Course Name": "MOOC - IT Support: Troubleshooting Windows - CLD258x",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10011",
+   "Course Name": "MOOC - IT Support: Networking Essentials - CLD260x",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10013",
+   "Course Name": "MOOC - IT Support: Troubleshooting Microsoft Office - CLD262x",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10015",
+   "Course Name": "MOOC - Introduction to Python: Absolute Beginner - DEV236x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10016",
+   "Course Name": "MOOC - Introduction to Design Thinking - DEV241x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10017",
+   "Course Name": "MOOC - Logic and Computational Thinking - DEV262x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10018",
+   "Course Name": "MOOC - Introduction to Python: Fundamentals - DEV274x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10020",
+   "Course Name": "MOOC - Learn to Program in Java - DEV276x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10021",
+   "Course Name": "MOOC - Object Oriented Programming in Java - DEV277x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10022",
+   "Course Name": "MOOC - Building Interactive Prototypes using JavaScript - DEV279x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10023",
+   "Course Name": "MOOC - Building Functional Prototypes using Node.js - DEV280x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10024",
+   "Course Name": "MOOC - Designing a Technical Solution - DEV284x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10025",
+   "Course Name": "MOOC - Algorithms and Data Structures - DEV285x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "10026",
+   "Course Name": "MOOC - Developing International Software - DIS50x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100040",
+   "Course Name": "MOOC - Microsoft Professional Orientation : Cloud Administration - Azure215x",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100042",
+   "Course Name": "MOOC - Enabling Data Source Discovery with Azure Data Catalog - DAT238x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100044",
+   "Course Name": "MOOC - DevOps for Developers: How to Get Started - DEV212x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100047",
+   "Course Name": "MOOC - Architecting Distributed Cloud Applications - DEVOPS200.9x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100050",
+   "Course Name": "MOOC - Introduction to Bootstrap - A Tutorial - DEV203x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100051",
+   "Course Name": "MOOC - Introduction to C# - DEV204.1x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100052",
+   "Course Name": "MOOC - Object Oriented Programming with C# - DEV204.2x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100053",
+   "Course Name": "MOOC - Algorithms and Data Structures in C# - DEV204.3x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100054",
+   "Course Name": "MOOC - Introduction to jQuery - DEV208x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100059",
+   "Course Name": "MOOC - Managing Identity - INF253x",
+   "Topic": "Security",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100065",
+   "Course Name": "MOOC - Advanced CSS Concepts - DEV218x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100070",
+   "Course Name": "MOOC - Introduction to ReactJS - DEV281x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100074",
+   "Course Name": "MOOC - Introduction to Python-Creating Scalable, Robust, Interactive  - DEV330x",
+   "Topic": "Programming",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100089",
+   "Course Name": "MOOC - Security in Office 365 - CLD245x",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100090",
+   "Course Name": "MOOC - Introduction to Data Analysis using Excel - DAT205x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100091",
+   "Course Name": "MOOC - Creating BI Reports with SQL Server Reporting Services - DAT214x",
+   "Topic": "SQL",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100092",
+   "Course Name": "MOOC - Delivering a Relational Data Warehouse - DAT216x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100096",
+   "Course Name": "MOOC - Analytics Storytelling for Impact - DAT248x",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100097",
+   "Course Name": "MOOC - Analytics Storytelling for Impact - DAT248x",
+   "Topic": "SQL",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100109",
+   "Course Name": "Windows 10 Features for a Mobile Workforce: Managing and Maintaining Devices in the Enterprise - INF205x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100113",
+   "Course Name": "Windows Server 2016: Advanced Virtualization - INF219x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100117",
+   "Course Name": "Asynchronous Programming in C# and .NET Core - DEV235x",
+   "Topic": "Office",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100119",
+   "Course Name": "Build Web APIs using ASP.NET - DEV247x",
+   "Topic": "Office",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100120",
+   "Course Name": "MOOC - Deploy and Service Mobile Apps Using Azure App Service - DEV249x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100121",
+   "Course Name": "MOOC - Design an MVC Application - DEV250x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100124",
+   "Course Name": "MOOC - System Center 2016: Building Clouds - INF263x",
+   "Topic": "Other",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100128",
+   "Course Name": "MOOC - Managing Azure Subscriptions and Resources - AZ-100.1",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100129",
+   "Course Name": "MOOC - Implementing and Managing Storage - AZ-100.2",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100130",
+   "Course Name": "Implementing and Managing Storage - AZ-100.2",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100131",
+   "Course Name": "MOOC - Configure and Manage Virtual Networks - AZ-100.4",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100132",
+   "Course Name": "MOOC - Manage Identities - AZ-100.5",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100133",
+   "Course Name": "MOOC - Migrate Servers to Azure - AZ-101.1",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100134",
+   "Course Name": "MOOC - Implement and Manage Application Services - AZ-101.2",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100135",
+   "Course Name": "MOOC - Implement Advanced Virtual Networking - AZ-101.3",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100136",
+   "Course Name": "MOOC - Secure Identities - AZ-101.4",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100137",
+   "Course Name": "MOOC - Select the appropriate Azure technology development solution- AZ-200.1",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100138",
+   "Course Name": "MOOC - Develop for Azure storage - AZ-200.2",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100139",
+   "Course Name": "MOOC - Develop Azure Platform as a Service solutions - AZ-200.3",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100140",
+   "Course Name": "MOOC - Implement security in Azure development solutions - AZ-200.4",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100141",
+   "Course Name": "MOOC - Develop for an Azure Cloud Model - AZ-201.1",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100142",
+   "Course Name": "MOOC - Implement Azure development integration Solutions - AZ-201.2",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100143",
+   "Course Name": "MOOC - Develop Azure Cognitivie Services, Bot, and IoT solutions - AZ-201.3",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100144",
+   "Course Name": "MOOC - Deploying and Configuring Infrastructure - AZ-300.1",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100145",
+   "Course Name": "MOOC - Implementing Workloads and Security - AZ-300.2",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100146",
+   "Course Name": "MOOC - Understanding Cloud Architect Technology Solutions - AZ-300.3",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100147",
+   "Course Name": "MOOC - Creating and Deploying Apps - AZ-300.4",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100148",
+   "Course Name": "MOOC - Implementing Authentication and Secure Data - AZ-300.5",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100149",
+   "Course Name": "MOOC - Developing for the Cloud - AZ-300.6",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100150",
+   "Course Name": "MOOC - Designing for Identity and Security - AZ-301.1",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100151",
+   "Course Name": "MOOC - Designing a Data Platform Solution - AZ-301.2",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100152",
+   "Course Name": "MOOC - Design for Deployment, Migration, and Integration - AZ-301.3",
+   "Topic": "Author",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100153",
+   "Course Name": "MOOC - Designing an Infrastructure Strategy - AZ-301.4",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100154",
+   "Course Name": "MOOC - Microsoft 365 Tenant & Service Management - MS-100.2",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100155",
+   "Course Name": "MOOC - Microsoft 365 Identity Management - MS-100.3",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100156",
+   "Course Name": "MOOC - Office 365 Management - MS-100.1",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100157",
+   "Course Name": "MOOC - Microsoft 365 Device Management - MS-101.3",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100158",
+   "Course Name": "MOOC - Microsoft 365 Security Management - MS-101.1",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100159",
+   "Course Name": "MOOC - Microsoft 365 Compliance Management - MS-101.2",
+   "Topic": "Cloud",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100169",
+   "Course Name": "MOOC - Azure Infrastructure and Deployment Track (AZ-100)",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100170",
+   "Course Name": "MOOC - Azure Integration and Security Track (AZ-101)",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100195",
+   "Course Name": "Troubleshooting Windows Server 2016 Core Technologies (M10991)",
+   "Topic": "Server",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100205",
+   "Course Name": "MOOC - Data Science Research Methods-Python Edition - DAT273",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100206",
+   "Course Name": "MOOC - Data Science Research Methods-R Edition - DAT274",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100207",
+   "Course Name": "MOOC - Principles of Machine Learning-Python Edition - DAT275",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100208",
+   "Course Name": "MOOC - Principles of Machine Learning-R Edition - DAT276",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100209",
+   "Course Name": "MOOC - Essential Math for Machine Learning - DAT280",
+   "Topic": "Database",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100241",
+   "Course Name": "Essential Math for Data Analysis using Excel Online",
+   "Topic": "Office",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100252",
+   "Course Name": "Microsoft Azure Fundamentals (AZ-900)",
+   "Topic": "Azure",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100253",
+   "Course Name": "MOOC - Microsoft 365 Fundamentals - MS-900.1",
+   "Topic": "Office",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100268",
+   "Course Name": "MOOC - Managing Office 365 Content Services - MS-300.1",
+   "Topic": "Office",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100269",
+   "Course Name": "Managing SharePoint Online - MS-300.2",
+   "Topic": "Sharepoint",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100270",
+   "Course Name": "Enabling Microsoft Teams for Collaboration - MS-300.3",
+   "Topic": "Unified Communications",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100271",
+   "Course Name": "Enabling Office 365 Workloads for Collaboration - MS-300.4",
+   "Topic": "Office",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100272",
+   "Course Name": "Implementing SharePoint 2019 Infrastructure - MS-301.1",
+   "Topic": "Sharepoint",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100273",
+   "Course Name": "Implementing SharePoint 2019 Service Applications - MS-301.2",
+   "Topic": "Sharepoint",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100274",
+   "Course Name": "Implementing SharePoint Hybrid Scenarios - MS-301.3",
+   "Topic": "Sharepoint",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100275",
+   "Course Name": "Migrating to SharePoint Online - MS-301.4",
+   "Topic": "Sharepoint",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100276",
+   "Course Name": "Managing Microsoft 365 Identity and Access - MS-500.1",
+   "Topic": "Office",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100278",
+   "Course Name": "Implementing Microsoft 365 Information Protection - MS-500.3",
+   "Topic": "Office",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100279",
+   "Course Name": "Administering Microsoft 365 Built-in Compliance - MS-500.4",
+   "Topic": "Office",
+   "ILT": "",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "769",
+   "Course Name": "Advanced Automated Administration with Windows PowerShell (M10962)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "1415",
+   "Course Name": "Deploying Windows Desktops and Enterprise Applications (M20695)",
+   "Topic": "Windows Client",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "1802",
+   "Course Name": "Introduction to Microsoft Azure for IT Professionals (M10979)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "1824",
+   "Course Name": "Cloud & Datacenter Monitoring with System Center Operations Manager (M10964)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3317",
+   "Course Name": "Implementing and Managing Windows 10 (M20697-1)",
+   "Topic": "Windows Client",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3318",
+   "Course Name": "Deploying and Managing Windows 10 Using Enterprise Services (M20697-2)",
+   "Topic": "Windows Client",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3770",
+   "Course Name": "Supporting and Troubleshooting Windows 10 (M10982)",
+   "Topic": "Windows Client",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3771",
+   "Course Name": "Core Solutions of Microsoft Skype for Business 2015 (M20334)",
+   "Topic": "Unified Communications",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3982",
+   "Course Name": "Administering Microsoft Exchange Server 2016 (M20345-1)",
+   "Topic": "Exchange",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "3983",
+   "Course Name": "Designing and Deploying Microsoft Exchange Server 2016 (M20345-2)",
+   "Topic": "Exchange",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4393",
+   "Course Name": "Introduction to SQL Databases (M10985)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4394",
+   "Course Name": "Updating Your Skills to SQL Server 2016 (M10986)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4395",
+   "Course Name": "Querying Data with Transact-SQL (M20761)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4396",
+   "Course Name": "Administering a SQL Database Infrastructure (M20764)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4397",
+   "Course Name": "Provisioning SQL Databases (M20765)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4398",
+   "Course Name": "Implementing a SQL Data Warehouse (M20767)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4399",
+   "Course Name": "Developing SQL Data Models (M20768)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4400",
+   "Course Name": "Developing SQL Databases (M20762)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4430",
+   "Course Name": "Planning and Administering SharePoint 2016 (M20339-1)",
+   "Topic": "Sharepoint",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4460",
+   "Course Name": "Advanced Technologies of SharePoint 2016 (M20339-2)",
+   "Topic": "Sharepoint",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4692",
+   "Course Name": "Analyzing Data with SQL Server Reporting Services (M10990)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4698",
+   "Course Name": "Installation, Storage, and Compute with Windows Server 2016 (M20740)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4699",
+   "Course Name": "Networking with Windows Server 2016 (M20741)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4700",
+   "Course Name": "Identity with Windows Server 2016 (M20742)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4756",
+   "Course Name": "Upgrading Your Skills to Windows Server 2016 MCSA (M20743)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4759",
+   "Course Name": "Securing Windows Server 2016 (M20744)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4772",
+   "Course Name": "Implementing a Software Defined Datacenter (M20745)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4814",
+   "Course Name": "Integrating On-Premises Core Infrastructure with Microsoft Azure (M10992)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "4820",
+   "Course Name": "Integrating On-Premises Identity Infrastructure with Microsoft Azure (M10993)",
+   "Topic": "Azure",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6219",
+   "Course Name": "Administering System Center Configuration Manager (M20703-1)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6221",
+   "Course Name": "Integrating MDM and Cloud Services with System Center Configuration Manager (M20703-2)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6238",
+   "Course Name": "Analyzing Data with PowerBI (M20778)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6239",
+   "Course Name": "Office 365 Administration and Troubleshooting  (M10997)",
+   "Topic": "MS MOC",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6299",
+   "Course Name": "Installing and Configuring Windows Server 2012 (M20410)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6309",
+   "Course Name": "Deploying System Center 2012 Configuration Manager (M10748)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6395",
+   "Course Name": "Administering Windows Server 2012 (M20411)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6396",
+   "Course Name": "Programming in HTML5 with JavaScript and CSS3 (M20480)",
+   "Topic": ".NET",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6398",
+   "Course Name": "Developing Windows Azure and Web Services (M20487)",
+   "Topic": ".NET",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6412",
+   "Course Name": "Configuring Advanced Windows Server 2012 Services (M20412)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6420",
+   "Course Name": "Programming in C# (M20483)",
+   "Topic": ".NET",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6426",
+   "Course Name": "Core Solutions of Microsoft SharePoint Server 2013",
+   "Topic": "Sharepoint",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6457",
+   "Course Name": "Automating Administration with Windows PowerShell (M10961)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6501",
+   "Course Name": "Active Directory Services with Windows Server (M10969)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6504",
+   "Course Name": "Administering the Web Server (IIS) Role of Windows Server (M10972)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6508",
+   "Course Name": "IT Service Management with System Center Service Manager (M10965)",
+   "Topic": "Server",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6552",
+   "Course Name": "Querying Microsoft SQL Server 2014 (M20461)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6553",
+   "Course Name": "Administering Microsoft SQL Server 2014 Databases (M20462)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "6554",
+   "Course Name": "Implementing a Data Warehouse with Microsoft SQL Server 2014 (M20463)",
+   "Topic": "SQL",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "100249",
+   "Course Name": "Deploying and Managing Office 365 Hybrid Deployment (M10984)",
+   "Topic": "Office",
+   "ILT": " ✓ ",
+   "LP": " ✓ ",
+   "SS": "",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Big Data Fundamentals",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Big Data Interpretation",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Helping Customers Find You",
+   "Topic": "Social Media Marketing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Managing Your Corporate Reputation Online",
+   "Topic": "Social Media Marketing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Reaching Customers Digitally",
+   "Topic": "Social Media Marketing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache Hadoop and MapReduce Essentials",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache Kafka",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache Solr Essentials",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache Spark Advanced Topics",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache Spark Fundamentals",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache Storm Introduction",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Big Data – The Corporate Leadership Perspective",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Big Data – The Engineering Perspective",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Big Data – The Legal Perspective",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Big Data - The Marketing Perspective",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Big Data – The Sales Perspective",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Big Data – The Strategic Planning Perspective",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Big Data Development with Apache Spark",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Big Data Operations",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Data Modeling for Hadoop",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Designing and Implementing Big Data Analytics",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Hadoop Ecosystem",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Hadoop Operations",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Hadoop Installation and Maintenance",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "IBM BigInsights Fundamentals",
+   "Topic": "Big Data",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing and Implementing Blockchain Solutions",
+   "Topic": "Blockchain",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Essentials of Blockchain",
+   "Topic": "Blockchain",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Exploring Blockchain Solutions",
+   "Topic": "Blockchain",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Business Intelligence with QlikView",
+   "Topic": "Business Intelligence",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Business Intelligence with TIBCO Spotfire",
+   "Topic": "Business Intelligence",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server Data Warehousing and Business Intelligence Introduction",
+   "Topic": "Business Intelligence",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Talend Data Integration",
+   "Topic": "Data Integration",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Predictive Analytics",
+   "Topic": "Data Management",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Analyzing Big Data with Microsoft R",
+   "Topic": "Data Science",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Data Science Essentials",
+   "Topic": "Data Science",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Data Science Fundamentals in R",
+   "Topic": "Data Science",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Data Science Using R",
+   "Topic": "Data Science",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Azure HDInsight",
+   "Topic": "Data Science",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Perform Cloud Data Science with Azure Machine Learning",
+   "Topic": "Data Science",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Data Visualization and Analytics for Intermediate",
+   "Topic": "Data Visualization",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Data Visualization Essentials",
+   "Topic": "Data Visualization",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Data Visualization with Tableau for Beginners",
+   "Topic": "Data Visualization",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Power BI",
+   "Topic": "Data Visualization",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Data Warehousing Essentials",
+   "Topic": "Data Warehousing Essentials",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Data Warehousing with Azure",
+   "Topic": "Data Warehousing Essentials",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Database Fundamentals",
+   "Topic": "Database Fundamentals",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mentoring Assets",
+   "Topic": "Mentoring Assets",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server 2012: Querying",
+   "Topic": "Microsoft SQL Server 2012",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server: Developing Databases",
+   "Topic": "Microsoft SQL Server 2012",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server 2014: Designing Database Solutions",
+   "Topic": "Microsoft SQL Server 2014",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server 2014: Designing Business Intelligence Solutions",
+   "Topic": "Microsoft SQL Server 2014",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server 2014: Implementing Data Models and Reports",
+   "Topic": "Microsoft SQL Server 2014",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server 2016 First Look",
+   "Topic": "Microsoft SQL Server 2016",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server 2016: Administering",
+   "Topic": "Microsoft SQL Server 2016",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server 2016: Developing",
+   "Topic": "Microsoft SQL Server 2016",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server 2016: Provisioning",
+   "Topic": "Microsoft SQL Server 2016",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server 2016: Querying",
+   "Topic": "Microsoft SQL Server 2016",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SQL Server 2014: Implementing a Data Warehouse",
+   "Topic": "Microsoft SQL Server 2017",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "MySQL Database Development",
+   "Topic": "MySQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "MySQL Essentials",
+   "Topic": "MySQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache Cassandra",
+   "Topic": "No SQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache HBase Fundamentals",
+   "Topic": "No SQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Cassandra for SQL Developers",
+   "Topic": "No SQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "MongoDB",
+   "Topic": "No SQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "MongoDB Development",
+   "Topic": "No SQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "NoSQL",
+   "Topic": "No SQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "RavenDB Fundamentals",
+   "Topic": "No SQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Operational Intelligence Fundamentals with Splunk",
+   "Topic": "Operational Intelligence",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Database 11g: Administration Workshop I Release 2",
+   "Topic": "Oracle 11g",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Database 11g: Administration Workshop II Release 2",
+   "Topic": "Oracle 11g",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Database 11g: New Features for Administrators Release 2",
+   "Topic": "Oracle 11g",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Database 12c R2 SQL",
+   "Topic": "Oracle 12c",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Database 12c: Backup and Recovery",
+   "Topic": "Oracle 12c",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Database 12c: Install and Upgrade",
+   "Topic": "Oracle 12c",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Database 12c: Introduction to SQL",
+   "Topic": "Oracle 12c",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Database 12c: New Features for Administrators",
+   "Topic": "Oracle 12c",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Database 12c: Performance Tuning",
+   "Topic": "Oracle 12c",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Database 12c: RAC Administration",
+   "Topic": "Oracle 12c",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Database: 12c Administration Ed 2",
+   "Topic": "Oracle 12c",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Oracle Commerce: Platform Fundamentals",
+   "Topic": "Oracle ATG",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "PostgreSQL: Getting Started",
+   "Topic": "PostgreSQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Base SAS 9 Programming",
+   "Topic": "SAS",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Introduction to SQL",
+   "Topic": "SQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Generic Database Fundamentals",
+   "Topic": "Systems and Database Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Generic Design and Modeling Databases",
+   "Topic": "Systems and Database Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Teradata Basics",
+   "Topic": "Teradata SQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Teradata SQL",
+   "Topic": "Teradata SQL",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Test Preps",
+   "Topic": "Test Preps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Business Intelligence with Microsoft Dynamics CRM 2013",
+   "Topic": "Microsoft Dynamics",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Dynamics CRM 2013: Applications",
+   "Topic": "Microsoft Dynamics",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Dynamics CRM 2013: Customization and Configuration",
+   "Topic": "Microsoft Dynamics",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Creating Employee Apps with Force.com",
+   "Topic": "Salesforce",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing Applications in Force.com",
+   "Topic": "Salesforce",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "SAP Business Objects Business Intelligence",
+   "Topic": "SAP",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "SAP Business One for End Users",
+   "Topic": "SAP",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "SAP Business Suite 7 for End Users",
+   "Topic": "SAP",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "TOGAF 9.1",
+   "Topic": "TOGAF",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Advanced Architecting on Amazon Web Services",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Amazon Web Services Solution Architect - Associate 2018",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Amazon Web Services Solution Architect – Professional",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Architecting Microsoft Azure Solutions - 2018 Update",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Architecting on Amazon Web Services",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "AWS Certified Developer - Associate",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "AWS Certified SysOps Administrator – Associate",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "AWS Essentials",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Certified Cloud Security Professional (CCSP)",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Cloud Computing for the Business User",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Cloud Computing Technology Fundamentals",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Cloud+ CV0-001",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Cloud+ CV0-002",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Design and Implement Cloud Platform Solutions",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing Microsoft Azure Solutions",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Engineering DevOps on Amazon Web Services",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Google Cloud Architect",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Google Cloud Platform Fundamentals",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Google Cloud SQL for Developers",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Google Data Engineer",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Google G Suite Administrator",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Implementing Microsoft Azure Solutions",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Managing Citrix XenDesktop 7 Solutions",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Hyper-V 2016 First Look",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SCCM 2012: Administering and Deploying",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft System Center 2012 R2: Configuring and Deploying a Private Cloud",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft System Center 2012 R2: Monitoring and Operating a Private Cloud",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "OpenStack Fundamentals",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Serverless Architecture Using AWS",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Systems Operations on Amazon Web Services",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Virtualizing Enterprise Desktops and Apps",
+   "Topic": "Cloud Computing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Network+ N10-007",
+   "Topic": "CompTIA Network+",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Mobility+ MB0-001",
+   "Topic": "CompTIA Networking, Internetworking, and Security Technologies",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Network+ N10-006",
+   "Topic": "CompTIA Networking, Internetworking, and Security Technologies",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Security+ SY0-401",
+   "Topic": "CompTIA Networking, Internetworking, and Security Technologies",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Security+ SY0-501",
+   "Topic": "CompTIA Networking, Internetworking, and Security Technologies",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mentoring Assets",
+   "Topic": "Mentoring Assets",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Juniper Networks Junos Essentials",
+   "Topic": "Network Management and Security",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Software Defined Networking Essentials",
+   "Topic": "Network Management and Security",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "IP version 6",
+   "Topic": "Network Protocols",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Networking Fundamentals",
+   "Topic": "Networking and Telecommunications Fundamentals",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Certified Information Security Manager (CISM)",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Certified Information Systems Auditor",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Certified Information Systems Security Professional (CISSP)",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Certified Secure Software Lifecycle Professional (CSSLP)",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Certified Systems Security Professional (CISSP)",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "COBIT 5 Foundation",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Advanced Security Practitioner (CASP)",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Advanced Security Practitioner CAS-002",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Cybersecurity Analyst+ CS0-001",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA PenTest+ PT0-001",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Cryptography Fundamentals",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Exploring Security Trends",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Foundations of Android Security",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Foundations of iOS Security",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Security Fundamentals",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "OWASP Top 10",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Securing Mobile Devices in the Enterprise",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Securing User Accounts",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Systems Security Certified Practitioner",
+   "Topic": "Security Solutions",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Buffer for Business Users",
+   "Topic": "Social Networking",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Flickr for End Users",
+   "Topic": "Social Networking",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Getting the Most from Social Networking",
+   "Topic": "Social Networking",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Yammer for Business Users",
+   "Topic": "Social Networking",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Test Preps",
+   "Topic": "Test Preps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Internet of Things Introduction",
+   "Topic": "Wireless",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA A+ 220-901",
+   "Topic": "CompTIA A+",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA A+ 220-902",
+   "Topic": "CompTIA A+",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Linux+ 2014 Powered By LPI: LX0-103",
+   "Topic": "CompTIA Linux+",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Linux+ 2014 Powered By LPI: LX0-104",
+   "Topic": "CompTIA Linux+",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CompTIA Server+ 2014",
+   "Topic": "CompTIA Server+",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Automating Your IT Infrastructure",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Automation with Terraform",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Chef - Beyond the Basics",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "DevOps with Ansible and SaltStack",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Docker – Beyond the Basics",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Docker for Windows Server",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Elasticsearch Development",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Extending Jenkins",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Fundamentals of DevOps",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "HP LoadRunner 12 Essentials",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Kubernetes and Application Containers",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Master DevOps with Puppet",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mastering DevOps with Chef",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mastering DevOps with JavaScript",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mastering DevOps with Jenkins",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mastering DevOps with Python",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mastering DevOps with Splunk",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mastering Docker for DevOps",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Performance Engineering",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "PowerShell for Server 2016",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Puppet - Beyond the Basics",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "RabbitMQ",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Shell Scripting Essentials",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Using Docker",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Using Puppet",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Using Vagrant",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Vagrant Development Environments",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Working with Chef",
+   "Topic": "DevOps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "ITIL® 2011 Edition Intermediate Level: Operational Support & Analysis (OSA)",
+   "Topic": "IT Services",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "ITIL® 2011 Foundation",
+   "Topic": "IT Services",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mentoring Assets",
+   "Topic": "Mentoring Assets",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Exchange Server 2013: Advanced Solutions",
+   "Topic": "Microsoft Exchange Server 2013",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Server 2016: Networking",
+   "Topic": "Microsoft Exchange Server 2016",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Designing and Deploying Exchange Server 2016",
+   "Topic": "Microsoft Exchange Server 2017",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Internet Information Services",
+   "Topic": "Microsoft Internet Information Services 8.5",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Lync Server 2013",
+   "Topic": "Microsoft Lync Server 2013",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Planning and Managing Devices in the Enterprise",
+   "Topic": "Microsoft Mobility and Device Fundamentals",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows Devices and Mobility Fundamentals",
+   "Topic": "Microsoft Mobility and Device Fundamentals",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SharePoint Server 2013 - Developing Core Solutions",
+   "Topic": "Microsoft SharePoint Server 2013",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft SharePoint Server 2013: Designing Advanced Solutions",
+   "Topic": "Microsoft SharePoint Server 2014",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Managing Microsoft SharePoint Server 2016: 70-339",
+   "Topic": "Microsoft SharePoint Server 2016",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Skype for Business 2015",
+   "Topic": "Microsoft Skype for Business",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "System Center 2016",
+   "Topic": "Microsoft System Center",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows 10: Exploring the Technical Preview",
+   "Topic": "Microsoft Windows 10",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows 10 End User First Look",
+   "Topic": "Microsoft Windows 11",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows 10: Configuring Windows Devices",
+   "Topic": "Microsoft Windows 12",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows 10: Supporting Windows 10",
+   "Topic": "Microsoft Windows 13",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows 10: Installing and Configuring",
+   "Topic": "Microsoft Windows 14",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 10 Creators Update New Features",
+   "Topic": "Microsoft Windows 15",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows: Deploying Windows Devices and Enterprise Apps",
+   "Topic": "Microsoft Windows 8",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows: Managing Enterprise Devices and Apps",
+   "Topic": "Microsoft Windows 9",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows Server 2012 R2: Installing and Configuring",
+   "Topic": "Microsoft Windows Server 2012",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows Server 2012 R2: Administration",
+   "Topic": "Microsoft Windows Server 2013",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows Server 2012 R2: Configuring Advanced Services",
+   "Topic": "Microsoft Windows Server 2014",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows Server 2012 R2: Implementing an Advanced Infrastructure",
+   "Topic": "Microsoft Windows Server 2015",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows Server 2012 R2: Designing and Implementing an Infrastructure",
+   "Topic": "Microsoft Windows Server 2016",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows Server 2016 (First Look)",
+   "Topic": "Microsoft Windows Server 2016",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows Nano Server First Look",
+   "Topic": "Microsoft Windows Server 2017",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Server 2016: Install, Store, and Compute",
+   "Topic": "Microsoft Windows Server 2018",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Server 2016: Identity",
+   "Topic": "Microsoft Windows Server 2019",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Securing Windows Server 2016",
+   "Topic": "Microsoft Windows Server 2020",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Enabling Office 365 Services",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Managing Office 365 Identities and Requirements",
+   "Topic": "Office 366",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Working with Jenkins",
+   "Topic": "Software Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Test Preps",
+   "Topic": "Test Preps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Getting Started with Ubuntu",
+   "Topic": "Ubuntu",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Unix Essentials",
+   "Topic": "UNIX Essentials",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Windows Performance Monitoring",
+   "Topic": "Windows Performance Monitoring",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Advanced PowerShell Desired State Configuration",
+   "Topic": "Windows PowerShell",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft PowerShell and Exchange Server",
+   "Topic": "Windows PowerShell",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft PowerShell and SharePoint",
+   "Topic": "Windows PowerShell",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft PowerShell and SQL Server",
+   "Topic": "Windows PowerShell",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft PowerShell for Windows",
+   "Topic": "Windows PowerShell",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows Powershell Desired State Configuration",
+   "Topic": "Windows PowerShell",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Monitor Project Communications (PMBOK® Guide Sixth Edition)",
+   "Topic": "Communications (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Plan and Manage Communications (PMBOK® Guide Sixth Edition)",
+   "Topic": "Communications (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Project Selection and Initiation",
+   "Topic": "CompTIA Project+ PK0-004",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Scope, Schedule and Cost Planning",
+   "Topic": "CompTIA Project+ PK0-005",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Resource and Risk Planning",
+   "Topic": "CompTIA Project+ PK0-006",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Communication, Changes, and Documentation",
+   "Topic": "CompTIA Project+ PK0-007",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Controlling Project Work and Closing",
+   "Topic": "CompTIA Project+ PK0-008",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Planning and Controlling the Project Schedule",
+   "Topic": "CompTIA Project+ PK0-009",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Project Management Practical Exercises",
+   "Topic": "CompTIA Project+ PK0-010",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Quality and Procurement Planning",
+   "Topic": "CompTIA Project+ PK0-011",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Project Planning Documents",
+   "Topic": "CompTIA Project+ PK0-012",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Project Documents and Terminology",
+   "Topic": "CompTIA Project+ PK0-013",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mentoring Certified Associate in Project Management (CAPM) PMBOK Guide 5th Ed.",
+   "Topic": "Mentoring Assets",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mentoring Certified Associate in Project Management (CAPM) PMBOK Guide 6th Ed.",
+   "Topic": "Mentoring Assets",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mentoring PK0-004 CompTIA Project+",
+   "Topic": "Mentoring Assets",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mentoring PRINCE2 Foundation 2017",
+   "Topic": "Mentoring Assets",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mentoring Project Management Professional (PMP) PMBOK Guide 6th Edition Aligned",
+   "Topic": "Mentoring Assets",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Agile Key Exam Concepts",
+   "Topic": "PMI Agile Certified Practitioner (PMI-ACP)®",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Agile Principles and Methodologies",
+   "Topic": "PMI Agile Certified Practitioner (PMI-ACP)®",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Agile Project Planning",
+   "Topic": "PMI Agile Certified Practitioner (PMI-ACP)®",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Agile Project Scheduling and Monitoring",
+   "Topic": "PMI Agile Certified Practitioner (PMI-ACP)®",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Agile Stakeholder Engagement and Team Development",
+   "Topic": "PMI Agile Certified Practitioner (PMI-ACP)®",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Adopting PRINCE2® for your Project Environment (2017 Update)",
+   "Topic": "PRINCE2® - Foundation (2017 Update)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "PRINCE2® Control, Manage, and Close Projects (2017 Update)",
+   "Topic": "PRINCE2® - Foundation (2017 Update)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "PRINCE2® Project Management Overview (2017 Update)",
+   "Topic": "PRINCE2® - Foundation (2017 Update)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "PRINCE2® Project Planning and Risk Management (2017 Update)",
+   "Topic": "PRINCE2® - Foundation (2017 Update)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "PRINCE2® Project Quality and Control (2017 Update)",
+   "Topic": "PRINCE2® - Foundation (2017 Update)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "PRINCE2® Start, Direct, and Initiate Projects (2017 Update)",
+   "Topic": "PRINCE2® - Foundation (2017 Update)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Creating a Project Budget (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Cost (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Keeping Your Project on Budget (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Cost (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Capturing, Analyzing, and Using Project Lessons Learned",
+   "Topic": "Project Integration (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Managing Project Work (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Integration (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Project Changes and Closing (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Integration (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Project Initiation and Planning (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Integration (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Strategically Focused Project Management",
+   "Topic": "Project Integration (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Project Fundamentals (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Management (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Project Management Introduction (PMBOK® Sixth Edition)",
+   "Topic": "Project Management (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "The Process Groups (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Management (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Ethical Standards and PMI® Core Values",
+   "Topic": "Project Management Ethics and Values",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Ethics and Project Management",
+   "Topic": "Project Management Ethics and Values",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Finding Your Bearings as a Project Manager",
+   "Topic": "Project Management for All",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Getting the Big Picture by Defining the Project's Scope and Team",
+   "Topic": "Project Management for All",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Managing a Project to Minimize Risk and Maximize Quality",
+   "Topic": "Project Management for All",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mastering the Details of a Project's Schedule and Budget",
+   "Topic": "Project Management for All",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Navigating through Changes and Conflicts in Projects",
+   "Topic": "Project Management for All",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Taking Final Steps to Bring a Project to its Close",
+   "Topic": "Project Management for All",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Procurement Management (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Procurement (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Procurement Planning (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Procurement (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Manage and Control Quality (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Quality (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Planning Quality Management (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Quality (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Quality Methodologies and Standards for Project Management",
+   "Topic": "Project Quality (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Analyzing Risk (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Risk (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Identifying Risk (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Risk (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Planning Risk Management (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Risk (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Responding to Risk (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Risk (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Control the Project Schedule (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Schedule (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Define and Sequence Activities (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Schedule (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Develop the Project Schedule (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Schedule (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Create Work Breakdown Structure (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Scope (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Plan and Define Project Scope (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Scope (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Validate and Control Scope (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Scope (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Managing Stakeholder Engagement (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Stakeholders (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Planning Stakeholder Engagement (PMBOK® Guide Sixth Edition)",
+   "Topic": "Project Stakeholders (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Develop and Manage Resources (PMBOK® Guide Sixth Edition)",
+   "Topic": "Resource Management (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Plan and Acquire Resources (PMBOK® Guide Sixth Edition)",
+   "Topic": "Resource Management (PMBOK® Guide Sixth Edition)",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "TestPrep Certified Associate in Project Management (CAPM) PMBOK Guide 5th Ed.",
+   "Topic": "Test Preps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "TestPrep Project Management Professional PMBOK 6th Ed",
+   "Topic": "Test Preps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Introduction to Algorithms and Data Structures",
+   "Topic": "Algorithms",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Maven Fundamentals",
+   "Topic": "Apache",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache Subversion Fundamentals",
+   "Topic": "Configuration Management",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing with GitHub",
+   "Topic": "Configuration Management",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Defensive Programming in Android",
+   "Topic": "Defensive Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Defensive Programming in C#",
+   "Topic": "Defensive Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Defensive Programming in C/C++",
+   "Topic": "Defensive Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Defensive Programming in iOS",
+   "Topic": "Defensive Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Defensive Programming in JavaScript and HTML5",
+   "Topic": "Defensive Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Secure Programming",
+   "Topic": "Defensive Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developmenting Skills for Alexa",
+   "Topic": "Digital Assistant Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Fundamentals of Eclipse",
+   "Topic": "Eclipse",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Full Stack Development Bootcamp",
+   "Topic": "Full Stack Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Asynchronous Programming with Clojure",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "C++ Programming",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Getting Started with MATLAB",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Introduction to R Programming",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Introduction to Scala",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Introduction to Scalding",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Introduction to Swift Programming",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Perl Programming Essentials",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Programming with ANSI C",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Python for Data Science",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Python for Data Science",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Python Fundamentals",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Ruby Full Stack Development",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Ruby On Rails",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Ruby on Rails 4.2",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Ruby Programming",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Working with Clojure",
+   "Topic": "Generic Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Go Programming Fundamentals",
+   "Topic": "Go",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing and Implementing IoT Solutions",
+   "Topic": "IoT Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Defensive Programming in Java",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Develop Microservices with Java and Spring Cloud",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing Applications Using Java Spring",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Introduction to Java EE 6",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java Hibernate",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java Hibernate with Oracle 12c",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java Multi-Tenant Cloud Programming Fundamentals",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java Reactive Programming",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java SE 7 New Features",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java SE 8 Fundamentals",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java SE 8 Programming",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java SE7 Fundamentals",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java SE7 Professional",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java SE9 Development",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Using Akka",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Working with Java SE 6",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Working with Java SE 7",
+   "Topic": "Java 2 Programming",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java EE 7 Back-end Server Application Development",
+   "Topic": "Java EE7",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java EE 7 Front End Web Application Development",
+   "Topic": "Java EE8",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Mentoring Assets",
+   "Topic": "Mentoring Assets",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Architecture N-Tier/REST",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "F# Fundamentals",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Introduction to ASP.NET Core 1.0 and MVC",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft .NET Framework: WPF with XAML and C#",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft .NET: An Overview",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Secure Programming for .NET",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Software Development Fundamentals",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Visual Studio 2017 First Look",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Visual Studio Application Lifecycle Management",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Visual Studio Code Cross-platform Code Editor",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Visual Studio for New Users",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Visual Studio Mobile Center First Look",
+   "Topic": "Microsoft .NET Software Development Tools",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Programming in C#",
+   "Topic": "Microsoft C#",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Enterprise Library",
+   "Topic": "Microsoft Enterprise Library",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft LINQ",
+   "Topic": "Microsoft LINQ",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Entity Framework",
+   "Topic": "Microsoft ORM",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "NHibernate",
+   "Topic": "Microsoft ORM",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Azure",
+   "Topic": "Microsoft Web Applications",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Azure and Web Services",
+   "Topic": "Microsoft Web Applications",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Programming in HTML5 with JavaScript and CSS3",
+   "Topic": "Microsoft Web Applications",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "WCF Essentials",
+   "Topic": "Microsoft Web Applications",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Web API Essentials",
+   "Topic": "Microsoft Web Applications",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Advanced Windows Store App Development Using C# and XAML",
+   "Topic": "Microsoft Windows Store Apps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing ASP.NET MVC Web Applications",
+   "Topic": "Microsoft Windows Store Apps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Working with ASP.NET MVC 5",
+   "Topic": "Microsoft Windows Store Apps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Android App Development Essentials",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Android For .NET Developers",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache Cordova",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Application Development with React and Flux",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Building Secure Mobile Apps",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing Android Applications",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing Apple Watch Applications",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Ionic Framework",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "iOS 12 Application Development",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "iOS Application Development Fundamentals",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Java and .NET Programming for IoT",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "New Features in Android 5.x Lollipop For Developers",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "PhoneGap",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Programming Cross-Platform Applications in Visual Studio with Xamarin",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Programming with Kotlin",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Reactive Programming with Redux",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Titanium",
+   "Topic": "Mobile Application Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Hello, World!",
+   "Topic": "Programming Best Practices",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Software Programming Fundamentals",
+   "Topic": "Programming Best Practices",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Domain-driven Design",
+   "Topic": "Software Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "JIRA Fundamentals",
+   "Topic": "Software Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Object-oriented Design",
+   "Topic": "Software Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Service Oriented Architecture",
+   "Topic": "Software Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "SOLID Principles of Object-oriented Design",
+   "Topic": "Software Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "TOGAF 9.1 Advanced",
+   "Topic": "Software Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Advanced Scrum",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Agile Software Development",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Agile Software Testing",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "AI Development with TensorFlow",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Building API Gateways",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Clean Coding Techniques",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing AI and Machine Learning Solutions with Python",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing AI and ML Solutions with Java",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Essential Deployment Microservices",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Exploring Artificial Intelligence",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Exploring Machine Learning",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Exploring Microservices",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Exploring the Future of UI/UX",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Exploring Virtual Reality",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Kanban Fundamentals",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microservices Architecture",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microservices Design Patterns",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Pivotal Cloud Foundry Developer",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "REST API & Microservices",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Software Practices (SCRUM)",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Software Practices: Waterfall",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "The Full Stack Developer Mindset",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "User Experience (UX) Design Foundations",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Using Docker for Java Microservices",
+   "Topic": "Software Development Principles",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Introduction to iRise",
+   "Topic": "Software Requirements",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Automated Testing with Selenium",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Automation Using Appium",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Debugging Fundamentals",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Exploring Automation",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Visual Studio Team Foundation Server 2013 Administration",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Selenium Automated Web Testing",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Software Testing Foundations",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Software Testing Fundamentals",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Software Testing with Cucumber",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Software Testing with TestNG",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Software Testing with Visual Studio",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Team Foundation Server 2017",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Testing Android Apps with Genymotion",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Testing Social Media Applications",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Testing with JMeter",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Testing with JUnit",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Using Jasmine in Testing",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "WebLOAD Performance Testing",
+   "Topic": "Software Testing",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Test Preps",
+   "Topic": "Test Preps",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing Mobile Apps",
+   "Topic": "Universal Windows Platform",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Ajax",
+   "Topic": "Web Development Technologies",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CQRS Theory",
+   "Topic": "Web Development Technologies",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "IBM WebSphere Commerce v8 Programming Essentials",
+   "Topic": "Web Development Technologies",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Introduction to Ajax Development",
+   "Topic": "Web Development Technologies",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Web Development Using the Yeoman Stack",
+   "Topic": "Web Development Technologies",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows Embedded 8.1 Industry",
+   "Topic": "Windows Embedded",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Establishing Effective Virtual Teams",
+   "Topic": "Virtual Collaboration",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Facing Virtual Team Challenges",
+   "Topic": "Virtual Collaboration",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Adobe Captivate 8 Fundamentals",
+   "Topic": "Adobe",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Adobe Captivate 9 Fundamentals",
+   "Topic": "Adobe",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Adobe ColdFusion 10",
+   "Topic": "Adobe",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Adobe Dreamweaver CC",
+   "Topic": "Adobe",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Adobe Edge Animate CC",
+   "Topic": "Adobe",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Adobe Flash Professional CC",
+   "Topic": "Adobe",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Adobe Illustrator CC",
+   "Topic": "Adobe",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Adobe InDesign CC",
+   "Topic": "Adobe",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Adobe Premiere Elements 13",
+   "Topic": "Adobe",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Adobe Premiere Pro CC",
+   "Topic": "Adobe",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Using Adobe Typekit",
+   "Topic": "Adobe",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Drupal 8",
+   "Topic": "Content Management Systems",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "WordPress",
+   "Topic": "Content Management Systems",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Advanced AngularJS",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Advanced jQuery",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Angular 4",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Angular 5 Updates and Components",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Angular 6 Development",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Angular Reactive Programming",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "AngularJS 2.0",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "AngularJS and ASP.NET 5 MVC 6",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "AngularJS Fundamentals",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Application Development with Node.js",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Application Development with Node.js and the .NET Framework",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Automating Tasks with Grunt",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Automating Web Development Tasks with Gulp.js",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Building Apps with jQuery Mobile",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Building Apps with MEAN Stack",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Building Web Applications with Node.js",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "CSS3, Sass and Less",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Developing with Kendo UI",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Express 4.x Fundamentals",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Introduction to Bootstrap",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "JavaScript - Ember.js",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "JavaScript - JsRender",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "JavaScript - Knockout",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "JavaScript Essentials",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "JavaScript Frameworks and Libraries",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "JavaScript Front End Development",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "JavaScript Sencha",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "JavaScript Single Page Apps",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Javascript: Backbone.js",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "jQuery",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "jQuery Essentials",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Responsive Apps with Bootstrap",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "TypeScript Essentials",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Underscore.js",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Using the LoopBack Node.js Framework",
+   "Topic": "Scripting and Web Languages",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Building Dynamic Web Sites with LAMP Stack",
+   "Topic": "Web Application Frameworks",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Creating Web Applications with Sinatra",
+   "Topic": "Web Application Frameworks",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "PHP Applications with the Zend Framework",
+   "Topic": "Web Application Frameworks",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Responsive Web Design",
+   "Topic": "Web Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Using Balsamiq",
+   "Topic": "Web Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Using Justinmind",
+   "Topic": "Web Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Web Accessibility Fundamentals",
+   "Topic": "Web Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Web Design Essentials",
+   "Topic": "Web Design",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "HTML5",
+   "Topic": "Web Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "JSON Fundamentals",
+   "Topic": "Web Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "XML Essentials",
+   "Topic": "Web Development",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache Web Services",
+   "Topic": "Web Services",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Apache Web Services with Tomcat",
+   "Topic": "Web Services",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "REST API",
+   "Topic": "Web Services",
+   "ILT": "",
+   "LP": "",
+   "SS": " ✓ ",
+   "CLP": ""
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Excel 2016 Essentials",
+   "Topic": "Office 2016 - Core",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Excel 2016 Power Users",
+   "Topic": "Office 2016 - Core",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Outlook 2016",
+   "Topic": "Office 2016 - Core",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Powerpoint 2016",
+   "Topic": "Office 2016 - Core",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Word 2016 Essentials",
+   "Topic": "Office 2016 - Core",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Word 2016 Power Users",
+   "Topic": "Office 2016 - Core",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "What's New in Office 2016",
+   "Topic": "Office 2016 - Core",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Access 2016",
+   "Topic": "Office 2016 - Extended",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft OneNote 2016",
+   "Topic": "Office 2016 - Extended",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Project 2016",
+   "Topic": "Office 2016 - Extended",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Publisher 2016",
+   "Topic": "Office 2016 - Extended",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Sharepoint 2016 (On-Premises) Essentials",
+   "Topic": "Office 2016 - Extended",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Visio 2016",
+   "Topic": "Office 2016 - Extended",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Excel 2019 Essentials",
+   "Topic": "Office 2019",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Visio 2019 Essentials",
+   "Topic": "Office 2019",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Word 2019 Essentials",
+   "Topic": "Office 2019",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "What's New in Office 2019",
+   "Topic": "Office 2019",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Delve",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Sharepoint 2016 (Online) Essentials",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Sharepoint 2016 (Online) Power Users",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Teams",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Office 365 - Office Online",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Office 365 - Outlook on the Web",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Office 365 Administration (for the Non-IT Admin)",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Office 365 Calendar",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Office 365 Groups",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Office 365 People",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Office 365 Tasks",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "OneDrive",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Planner",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Power BI Essentials",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Project Online",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Skype for Business",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Sway",
+   "Topic": "Office 365",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Microsoft Surface",
+   "Topic": "Windows 10",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "What's New in Windows 10",
+   "Topic": "Windows 10",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 10 Administration",
+   "Topic": "Windows 10",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 10 April 2018 Update",
+   "Topic": "Windows 10",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 10 Creators Update",
+   "Topic": "Windows 10",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 10 Esssentials",
+   "Topic": "Windows 10",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 10 Fall Creators Update",
+   "Topic": "Windows 10",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 10 Foundations",
+   "Topic": "Windows 10",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 10 Power Users",
+   "Topic": "Windows 10",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 7",
+   "Topic": "Windows 7",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 7 for Admins",
+   "Topic": "Windows 7",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 8 Essentials",
+   "Topic": "Windows 8",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 8 for Power Users",
+   "Topic": "Windows 8",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ },
+ {
+   "GK Code": "NA",
+   "Course Name": "Windows 8.1",
+   "Topic": "Windows 8",
+   "ILT": "",
+   "LP": "",
+   "SS": "",
+   "CLP": " ✓ "
+ }
+]
+}
